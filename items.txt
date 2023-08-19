@@ -1,0 +1,1562 @@
+72 itens em valfenda
+                                             '
+Você se sente informado:
+Objeto 'O Anel de Safira de Elrond', Tipo: ARMADURA
+Habilidades do Item:  DET-ALIGN DET-MAGIC SENSE-LIFE FORBIDDEN_SANCTUARY
+O item é: AURA NÃO_DOA INVISÍVEL MÁGICO ABENÇOADO ANTI_MAU ANTI_ANÃO ANTI_CORSÁRIO NO_LOCATE
+Peso: [1], Valor: [2000000], Lvl. Min.: [90], Remort Min.: [50]
+Aplicação na AC é de [10]
+Pode te afetar com :
+   Afeta: SAB com [6]
+   Afeta: MAXMANA com [1000]
+   Afeta: MAXVIDA com [700]
+   Afeta: ACERTO com [20]
+   Afeta: DANO com [20]
+   Afeta: CON com [4]
+Este objeto pode paralisar as habilidades:  'curse' 'poison' 'blindness' 'fireball'
+
+
+Você se sente informado:
+Objeto 'o poder dos elementais de Tiamat', Tipo: ARMA
+Habilidades do Item:  FIRESHIELD WATERSHIELD MANASHIELD
+Pode ser usado em: EMPUNHAR
+O item é: MÁGICO ANTI_NEUTRO ENTALHADO AUTOENTALHAR NO_LOCATE NO_PEEK
+Peso: [5], Valor: [2000000], Lvl. Min.: [90], Remort Min.: [55]
+O Dado de Dano é [3d500] e causa um dano médio de 751.5.
+Pode te afetar com :
+   Afeta: FOR com [1]
+   Afeta: DES com [2]
+   Afeta: INT com [3]
+   Afeta: SAB com [4]
+   Afeta: CON com [5]
+   Afeta: CAR com [6]
+Este objeto pode paralisar a habilidade:  'curse'
+
+(Prox Level: 66.17M) 9.80KHp 9.04KMn 4.72KMv   >
+iden garr
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+As Garras da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: MÃOS
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE CONJUNTO NO_LOCATE NO_PEEK
+Peso: [7], Valor: [100000], Lvl. Min.: [1], Remort Min.: [10]
+Aplicação na AC é de [20]
+Pode te afetar com :
+   Afeta: DANO com [3]
+   Afeta: ACERTO com [4]
+   Afeta: MAXMANA com [100]
+   Afeta: MAXVIDA com [100]
+
+(Prox Level: 66.17M) 9.80KHp 9.03KMn 4.72KMv   >
+iden esca
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+As Escamas da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: SOBRE
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE CONJUNTO NO_LOCATE NO_PEEK
+Peso: [17], Valor: [100000], Lvl. Min.: [60], Remort Min.: [10]
+Aplicação na AC é de [50]
+Pode te afetar com :
+   Afeta: FOR com [1]
+   Afeta: MAXMOVE com [150]
+   Afeta: MAXVIDA com [300]
+   Afeta: MAXMANA com [300]
+   Afeta: ACERTO com [8]
+   Afeta: DANO com [7]
+
+(Prox Level: 66.17M) 9.80KHp 8.89KMn 4.72KMv   >
+iden dia
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+O Diamante da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: BRINCO
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE CONJUNTO NO_LOCATE NO_PEEK
+Peso: [1], Valor: [100000], Lvl. Min.: [60], Remort Min.: [10]
+Aplicação na AC é de [25]
+Pode te afetar com :
+   Afeta: DANO com [7]
+   Afeta: ACERTO com [7]
+   Afeta: MAXMANA com [200]
+   Afeta: MAXMOVE com [200]
+   Afeta: MAXVIDA com [300]
+   Afeta: CON com [2]
+
+(Prox Level: 66.17M) 9.80KHp 8.76KMn 4.72KMv   >
+iden fai
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+A Faixa da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: CINTURA
+O item é: AURA SOM INVISÍVEL MÁGICO ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE NO_PEEK
+Peso: [10], Valor: [300000], Lvl. Min.: [35], Remort Min.: [10]
+Aplicação na AC é de [30]
+Pode te afetar com :
+   Afeta: INT com [2]
+   Afeta: CON com [1]
+   Afeta: MAXVIDA com [150]
+   Afeta: MAXMANA com [100]
+   Afeta: ACERTO com [3]
+   Afeta: DANO com [5]
+
+(Prox Level: 66.17M) 9.80KHp 8.61KMn 4.72KMv   >
+iden talis
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+O Talismã da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: PESCOÇO
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE NO_PEEK
+Peso: [10], Valor: [300000], Lvl. Min.: [60], Remort Min.: [12]
+Aplicação na AC é de [20]
+Pode te afetar com :
+   Afeta: DANO com [9]
+   Afeta: ACERTO com [10]
+   Afeta: MAXVIDA com [300]
+   Afeta: MAXMANA com [300]
+   Afeta: MAXMOVE com [300]
+   Afeta: DES com [2]
+
+(Prox Level: 66.17M) 9.80KHp 8.48KMn 4.72KMv   >
+iden tuni
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+A Tunica da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: CORPO
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE NO_PEEK
+Peso: [20], Valor: [1000000], Lvl. Min.: [20], Remort Min.: [10]
+Aplicação na AC é de [30]
+Pode te afetar com :
+   Afeta: DANO com [4]
+   Afeta: ACERTO com [5]
+   Afeta: MAXMANA com [50]
+   Afeta: MAXVIDA com [100]
+
+(Prox Level: 66.17M) 9.80KHp 8.71KMn 4.72KMv   >
+iden pata
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+As Patas da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: PES
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE CONJUNTO NO_LOCATE NO_PEEK
+Peso: [7], Valor: [400000], Lvl. Min.: [50], Remort Min.: [10]
+Aplicação na AC é de [30]
+Pode te afetar com :
+   Afeta: DANO com [6]
+   Afeta: ACERTO com [6]
+   Afeta: MAXMANA com [200]
+   Afeta: MAXMOVE com [200]
+   Afeta: MAXVIDA com [200]
+   Afeta: CON com [2]
+
+(Prox Level: 66.17M) 9.80KHp 8.56KMn 4.72KMv   >
+iden enf
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+O Enfeite da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: CABEÇA
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE CONJUNTO NO_LOCATE NO_PEEK
+Peso: [12], Valor: [200000], Lvl. Min.: [50], Remort Min.: [10]
+Aplicação na AC é de [30]
+Pode te afetar com :
+   Afeta: DANO com [8]
+   Afeta: ACERTO com [8]
+   Afeta: MAXMANA com [200]
+   Afeta: MAXVIDA com [300]
+   Afeta: CON com [3]
+   Afeta: DES com [2]
+
+(Prox Level: 66.17M) 9.80KHp 8.41KMn 4.72KMv   >
+iden cau
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+A Cauda da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: PERNAS
+O item é: AURA SOM MÁGICO ENTALHADO AUTOENTALHAR LEVE CONJUNTO NO_LOCATE NO_PEEK
+Peso: [17], Valor: [200000], Lvl. Min.: [70], Remort Min.: [10]
+Aplicação na AC é de [40]
+Pode te afetar com :
+   Afeta: MAXMOVE com [50]
+   Afeta: MAXVIDA com [200]
+   Afeta: MAXMANA com [200]
+   Afeta: ACERTO com [7]
+   Afeta: DANO com [7]
+
+(Prox Level: 66.17M) 9.80KHp 8.27KMn 4.72KMv   >
+iden cande
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+O Candelabro da Vingança Draconiana+*+', Tipo: LUZ
+Habilidades do Item:  DET-INVIS SENSE-LIFE INFRA
+Pode ser usado em: SEGURAR
+O item é: AURA SOM INVISÍVEL MÁGICO ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE NO_PEEK
+Peso: [10], Valor: [500000], Lvl. Min.: [80], Remort Min.: [10]
+Pode te afetar com :
+   Afeta: CON com [1]
+   Afeta: MAXMOVE com [100]
+   Afeta: MAXVIDA com [150]
+   Afeta: MAXMANA com [150]
+   Afeta: ACERTO com [9]
+   Afeta: DANO com [10]
+
+(Prox Level: 66.17M) 9.80KHp 8.14KMn 4.72KMv   >
+iden ador
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'a bolsa de Mercúrio', Tipo: CONTAINER
+Pode ser usado em: SOBRE
+O item é: INVISÍVEL ABENÇOADO ANTI_MAU ANTI_NEUTRO ENTALHADO
+Peso: [110], Valor: [150000], Lvl. Min.: [50], Remort Min.: [4]
+Capacidade: [700kg]
+
+(Prox Level: 66.17M) 9.80KHp 8.00KMn 4.72KMv   >
+iden adorno
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+O Adorno da Vingança Draconiana+*+', Tipo: ARMADURA
+Habilidades do Item:  DET-INVIS
+Pode ser usado em: DEDO
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE CONJUNTO NO_LOCATE NO_PEEK
+Peso: [1], Valor: [200000], Lvl. Min.: [30], Remort Min.: [10]
+Aplicação na AC é de [20]
+Pode te afetar com :
+   Afeta: DANO com [4]
+   Afeta: ACERTO com [5]
+   Afeta: MAXMANA com [100]
+   Afeta: MAXVIDA com [200]
+   Afeta: MAXMOVE com [100]
+   Afeta: SAB com [3]
+
+(Prox Level: 66.17M) 9.80KHp 8.23KMn 4.72KMv   >
+
+Você sente seu corpo diminuir e sua pele perder a grossa camada de pelos que a cobria enquanto seus
+dentes e unhas voltam a parecer humanos!
+
+(Prox Level: 66.17M) 9.80KHp 8.23KMn 4.72KMv   >
+iden braça
+Não é possível achar o alvo de sua magia!
+
+(Prox Level: 66.17M) 9.80KHp 8.23KMn 4.72KMv   >
+iden braç
+Não é possível achar o alvo de sua magia!
+
+(Prox Level: 66.17M) 9.80KHp 8.23KMn 4.72KMv   >
+iden bra
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+Os Braçais da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: BRAÇOS
+O item é: AURA SOM MÁGICO ENTALHADO AUTOENTALHAR LEVE CONJUNTO NO_LOCATE NO_PEEK
+Peso: [17], Valor: [300000], Lvl. Min.: [70], Remort Min.: [10]
+Aplicação na AC é de [50]
+Pode te afetar com :
+   Afeta: CAR com [1]
+   Afeta: INT com [2]
+   Afeta: MAXVIDA com [200]
+   Afeta: MAXMANA com [250]
+   Afeta: ACERTO com [9]
+   Afeta: DANO com [8]
+
+(Prox Level: 66.17M) 9.80KHp 8.09KMn 4.72KMv   >
+iden pulseir
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+A Pulseira da Vingança Draconiana+*+', Tipo: ARMADURA
+Pode ser usado em: PUNHO
+O item é: AURA SOM MÁGICO ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE NO_PEEK
+Peso: [1], Valor: [4000000], Lvl. Min.: [65], Remort Min.: [10]
+Aplicação na AC é de [0]
+Pode te afetar com :
+   Afeta: DANO com [8]
+   Afeta: ACERTO com [9]
+   Afeta: MAXMANA com [200]
+   Afeta: MAXVIDA com [200]
+   Afeta: MAXMOVE com [200]
+   Afeta: CAR com [2]
+Este objeto pode paralisar a habilidade:  'backstab'
+
+(Prox Level: 66.17M) 9.75KHp 8.32KMn 4.72KMv   >
+Saibot olha para +*+O Enfeite da Vingança Draconiana+*+ e pronuncia as palavras, 'Dignosco'
+Saibot se sente informado.
+
+(Prox Level: 66.17M) 9.75KHp 8.32KMn 4.72KMv   >
+iden espada
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'Balmung a verdadeira espada de Regin', Tipo: ARMA
+Pode ser usado em: EMPUNHAR
+O item é: AURA SOM NO_LOCATE NO_PEEK
+Peso: [30], Valor: [20000000], Lvl. Min.: [75], Remort Min.: [30]
+O Dado de Dano é [32d31] e causa um dano médio de 512.0.
+Pode te afetar com :
+   Afeta: DANO com [15]
+   Afeta: ACERTO com [12]
+   Afeta: MAXMANA com [400]
+   Afeta: MAXVIDA com [350]
+   Afeta: CAR com [1]
+   Afeta: DES com [2]
+
+(Prox Level: 66.17M) 9.75KHp 8.19KMn 4.72KMv   >
+iden 2.espa
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '+*+A Espada Enfeitiçada da Vingança Draconiana+*+', Tipo: ARMA
+Pode ser usado em: EMPUNHAR
+O item é: AURA SOM ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE NO_PEEK
+Peso: [20], Valor: [4000000], Lvl. Min.: [90], Remort Min.: [20]
+O Dado de Dano é [40d45] e causa um dano médio de 920.0.
+Pode te afetar com :
+   Afeta: DANO com [20]
+   Afeta: ACERTO com [15]
+   Afeta: MAXMANA com [600]
+Este objeto pode paralisar a habilidade:  'backstab'
+
+(Prox Level: 66.17M) 9.75KHp 8.79KMn 4.72KMv   >
+iden somb
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'as Asas Sombrias', Tipo: ARMADURA
+Habilidades do Item:  PROT-GOOD FLY
+Pode ser usado em: SOBRE
+O item é: AURA INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE NO_LOCATE
+Peso: [1], Valor: [1500000], Lvl. Min.: [75], Remort Min.: [35]
+Aplicação na AC é de [60]
+Pode te afetar com :
+   Afeta: DANO com [20]
+   Afeta: ACERTO com [15]
+   Afeta: MAXMANA com [350]
+   Afeta: MAXVIDA com [500]
+   Afeta: CON com [5]
+   Afeta: DES com [5]
+Este objeto pode paralisar as habilidades:  'earthquake' 'poison'
+
+(Prox Level: 66.17M) 9.75KHp 9.02KMn 4.72KMv   >
+iden coro
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'uma Divina Coroa de Ossos', Tipo: ARMADURA
+Habilidades do Item:  INFRA BONEPROT
+Pode ser usado em: CABEÇA
+O item é: SOM MÁGICO ENTALHADO AUTOENTALHAR LEVE NO_LOCATE
+Peso: [17], Valor: [675000], Lvl. Min.: [70], Remort Min.: [35]
+Aplicação na AC é de [43]
+Pode te afetar com :
+   Afeta: CAR com [-3]
+   Afeta: MAXVIDA com [150]
+   Afeta: MAXMOVE com [150]
+   Afeta: MAXMANA com [500]
+   Afeta: DANO com [20]
+   Afeta: ACERTO com [12]
+
+Você se sente informado:
+Objeto 'A Essência dos Dragões', Tipo: ARMADURA
+Habilidades do Item:  SENSE-LIFE MIRROR-IMAGE FORBIDDEN_SANCTUARY ICESHIELD
+Pode ser usado em: ESCUDO
+O item é: ENTALHADO AUTOENTALHAR
+Peso: [25], Valor: [0], Lvl. Min.: [70], Remort Min.: [40]
+Aplicação na AC é de [12]
+Pode te afetar com :
+   Afeta: MAXVIDA com [3000]
+   Afeta: MAXMANA com [1000]
+   Afeta: MAXMOVE com [1000]
+   Afeta: SAB com [25]
+   Afeta: INT com [25]
+Este objeto pode paralisar a habilidade:  'silence'
+
+(Prox Level: 66.17M) 9.75KHp 9.03KMn 4.72KMv   >
+iden sangr
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'a Estrela Sangrenta', Tipo: ARMA
+Habilidades do Item:  MIRROR-IMAGE
+Pode ser usado em: EMPUNHAR
+O item é: AURA SOM NÃO_DOA VISÍVEL MÁGICO ANTI_MAU ENTALHADO NO_LOCATE NO_PEEK
+Peso: [20], Valor: [10000000], Lvl. Min.: [80], Remort Min.: [198]
+O Dado de Dano é [400d10] e causa um dano médio de 2200.0.
+Pode te afetar com :
+   Afeta: MAXVIDA com [400]
+   Afeta: ACERTO com [335]
+   Afeta: DANO com [334]
+   Afeta: MAXMANA com [500]
+Este objeto pode paralisar as habilidades:  'blindness' 'curse' 'invert alignment' 'make brave'
+'soul eater'
+
+(Prox Level: 66.17M) 9.75KHp 9.18KMn 4.72KMv   >
+w
+[[ Saibot ]]
+[[ Saídas: e w  ]]
+*+*+* O enorme dente do Tarrasque *+*+* de Saibot
+um medalhão Dourado de Saibot (aura) (zunindo) ..isto brilha em amarelo!(x2)
+
+
+Objeto 'Divino Ten Ma Ko Fuku', Tipo: ARMA
+Pode ser usado em: SEGURAR
+O item é: AURA SOM NÃO_DOA ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR NO_LOCATE NO_PEEK
+Peso: [1], Valor: [4000000], Lvl. Min.: [30], Remort Min.: [3]
+O Dado de Dano é [0d0] e causa um dano médio de 0.0.
+Pode te afetar com :
+   Afeta: DANO com [8]
+   Afeta: ACERTO com [8]
+   Afeta: MAXMANA com [200]
+   Afeta: MAXVIDA com [250]
+   Afeta: ARMADURA com [-50]
+   Afeta: MAXMOVE com [60]
+
+Objeto 'Divina Agulha Escarlate', Tipo: ARMA
+Pode ser usado em: EMPUNHAR
+O item é: AURA SOM NÃO_DOA VISÍVEL ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR NO_LOCATE NO_PEEK
+Peso: [16], Valor: [300000000], Lvl. Min.: [60], Remort Min.: [3]
+O Dado de Dano é [11d18] e causa um dano médio de 104.5.
+Pode te afetar com :
+   Afeta: DANO com [8]
+   Afeta: ACERTO com [10]
+   Afeta: MAXMANA com [50]
+   Afeta: MAXVIDA com [50]
+   Afeta: MAXMOVE com [50]
+   Afeta: DES com [4]
+
+Você se sente informado:
+Objeto 'O Divino Cinturão de Aquário', Tipo: ARMADURA
+Pode ser usado em: CINTURA
+O item é: AURA SOM MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR NO_LOCATE NO_PEEK
+Peso: [15], Valor: [4000000], Lvl. Min.: [60], Remort Min.: [3]
+Aplicação na AC é de [40]
+Pode te afetar com :
+   Afeta: DANO com [6]
+   Afeta: ACERTO com [7]
+   Afeta: MAXMANA com [100]
+   Afeta: MAXVIDA com [250]
+   Afeta: MAXMOVE com [50]
+   Afeta: CON com [3]
+
+(Prox Level: 66.17M) 9.75KHp 9.04KMn 4.72KMv   >
+ide arie
+Isso deve ser um erro... Se não for, tente elaborar mais um pouco.
+
+(Prox Level: 66.17M) 9.75KHp 9.04KMn 4.72KMv   >
+iden ari
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'Os Divinos Chifres de Áries', Tipo: ARMADURA
+Habilidades do Item:  SANCT SNEAK
+Pode ser usado em: PESCOÇO
+O item é: AURA SOM MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR NO_LOCATE NO_PEEK
+Peso: [1], Valor: [10000000], Lvl. Min.: [60], Remort Min.: [3]
+Aplicação na AC é de [0]
+Pode te afetar com :
+   Afeta: DANO com [8]
+   Afeta: ACERTO com [8]
+   Afeta: MAXMANA com [100]
+   Afeta: MAXVIDA com [100]
+   Afeta: MAXMOVE com [50]
+   Afeta: IDADE com [40]
+Este objeto pode paralisar a habilidade:  'curse'
+
+(Prox Level: 66.17M) 9.75KHp 9.02KMn 4.72KMv   >
+[Dragons][Grande Bahamut]Saibot: itens de infernais eu nem deixo em casa, sei lá, prefiro deixar em
+bolsa
+
+(Prox Level: 66.17M) 9.75KHp 9.02KMn 4.72KMv   >
+iden curt
+Você perde sua concentração!
+
+(Prox Level: 66.17M) 9.75KHp 9.01KMn 4.72KMv   >
+iden dourado
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'um medalhão Dourado', Tipo: ARMADURA
+Habilidades do Item:  DET-INVIS DET-MAGIC SANCT
+Pode ser usado em: PESCOÇO
+O item é: AURA SOM NÃO_DOA MÁGICO NÃO_VENDE ENTALHADO AUTOENTALHAR LEVE NO_LOCATE
+Peso: [6], Valor: [2000000], Lvl. Min.: [1], Remort Min.: [2]
+Aplicação na AC é de [10]
+Pode te afetar com :
+   Afeta: DANO com [3]
+   Afeta: ACERTO com [4]
+   Afeta: FOR com [1]
+   Afeta: DES com [1]
+
+(Prox Level: 66.17M) 9.75KHp 9.04KMn 4.72KMv   >
+csr esse medalhao dourado eh de onde?
+[Dragons][Chaos Dragon]Vorrac: esse medalhao dourado eh de onde?
+
+(Prox Level: 66.17M) 9.75KHp 9.04KMn 4.72KMv   >
+exam merc
+indefinidoOlhando dentro, você vê:
+a bolsa de Mercúrio (carregando):
+um cantil encantado
+Um martelo grande e encantado
+o cajado divino dos dragões da gema (aura) (zunindo)
+uma pedra de afiar
+Chama Celeste (aura)
+um pergaminho da identificação empoeirado ..isto brilha em amarelo!(x2)
+Uma poção de reflexo (aura) (zunindo) ..isto brilha em amarelo!(x2)
+uma base de madeira para armadilhas(x7)
+um grande frasco ..isto brilha em amarelo!
+Uma poção congelada (aura) (zunindo)
+um pergaminho de retorno ..isto brilha em amarelo!(x9)
+Um pergaminho para remover maldições
+
+(Prox Level: 66.17M) 9.75KHp 9.18KMn 4.72KMv   >
+exam pell
+
+[Dragons][Grande Bahamut]Saibot: centauros
+
+(Prox Level: 66.17M) 9.75KHp 9.18KMn 4.72KMv   >Você percebe uma inscrição em um de seus cantos.
+ ..isto brilha em amarelo!
+Olhando dentro, você vê:
+mochila de pellinore (carregando):
+um traje de pele de Lung (aura) (zunindo)
+uma flor de Lótus Branca de Vorrac
+a jóia de Smaug (aura) (zunindo)
+um anel com o símbolo da Lótus Branca de Vorrac
+uma pedra preciosa (aura) (zunindo)(x2)
+Botas de pele de urso
+o bracelete de Tezcatlipoca (aura) (zunindo)(x2)
+A Divina Coroa do Rei Goblin de Vorrac
+Uma capa espiritual de Vorrac (aura) (zunindo) ..isto brilha em amarelo!
+um escudo de escamas de dragão (aura) (zunindo)
+braçadeiras de prata
+o cinto de Talol
+uma saia de escamas negras de dragao ..isto brilha em amarelo!
+Uma Divina Lamparina Verde e Amarela de Vorrac
+um par de luvas de esgrimista
+o manto do conjurador-das-tempestades (aura) ..isto brilha em amarelo!(x2)
+A Divina Espada do Rei Novato de Vorrac (aura) ..isto brilha em amarelo!
+uma bengala de monge (aura) ..isto brilha em amarelo!(x2)
+um bracelete ônix ..isto brilha em amarelo!(x2)
+o velocino de ouro (aura) (zunindo)
+robustas botas negras
+O bico do Corvo
+uma pedra (aura)
+
+(Prox Level: 66.17M) 9.75KHp 9.18KMn 4.72KMv   >
+get manto pell
+Você pega o manto do conjurador-das-tempestades de mochila de pellinore.
+
+(Prox Level: 66.17M) 9.75KHp 9.18KMn 4.72KMv   >
+iden man
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'o manto do conjurador-das-tempestades', Tipo: ARMADURA
+Pode ser usado em: PESCOÇO
+O item é: AURA MÁGICO ANTI_BEM ANTI_GUERREIRO LEVE
+Peso: [1], Valor: [12000], Lvl. Min.: [1], Remort Min.: [0]
+Aplicação na AC é de [10]
+Pode te afetar com :
+   Afeta: ARMADURA com [-10]
+   Afeta: MAXVIDA com [30]
+   Afeta: FOR com [1]
+
+(Prox Level: 66.17M) 9.75KHp 9.03KMn 4.72KMv   >
+iden dourado
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'um medalhão Dourado', Tipo: ARMADURA
+Habilidades do Item:  DET-INVIS DET-MAGIC SANCT
+Pode ser usado em: PESCOÇO
+O item é: AURA SOM NÃO_DOA MÁGICO NÃO_VENDE ENTALHADO AUTOENTALHAR LEVE NO_LOCATE
+Peso: [6], Valor: [2000000], Lvl. Min.: [1], Remort Min.: [2]
+Aplicação na AC é de [10]
+Pode te afetar com :
+   Afeta: DANO com [3]
+   Afeta: ACERTO com [4]
+   Afeta: FOR com [1]
+   Afeta: DES com [1]
+
+(Prox Level: 66.17M) 9.75KHp 8.88KMn 4.72KMv   >
+csr melhor que o manto que eu uso
+[Dragons][Chaos Dragon]Vorrac: melhor que o manto que eu uso
+
+(Prox Level: 66.17M) 9.75KHp 9.18KMn 4.72KMv   >
+i
+Você está carregando:
+o manto do conjurador-das-tempestades (aura) ..isto brilha em amarelo!
+a orbe da Grande Mãe
+uma armadura de cadeia de elos
+a bolsa de Mercúrio de Vorrac (invisível)
+um cartão de crédito ..isto brilha em amarelo!
+mochila de pellinore ..isto brilha em amarelo!
+uma caixa em forma de coração
+
+(Prox Level: 66.17M) 9.75KHp 9.18KMn 4.72KMv   >
+l
+[[ Saibot ]]
+This unfinished room was created by Percussor.
+[[ Saídas: e w  ]]
+ Saibot Tenebrae está aqui.
+...ele emite uma luz brilhante!
+...ele está protegido pelo poderoso santuário!
+...ele está flutuando no ar!
+...uma aura de fogo envolve seu corpo!
+*+*+* O enorme dente do Tarrasque *+*+* de Saibot
+Um vestido adornado de gemas raras de Saibot (invisível) (aura) (zunindo) ..isto brilha em amarelo!
+um cinto de Marte (aura)
+Um cajado cravejado de rubis (aura) ..isto brilha em amarelo!
+Um cajado cravejado de safiras
+um escudo do panteão romano de Saibot
+um medalhão Dourado de Saibot (aura) (zunindo) ..isto brilha em amarelo!(x2)
+a espada curta orc de Saibot (+76R) ..isto brilha em amarelo!(x2)
+A Divina Armadura de Siegfried de Saibot (invisível) (aura) (zunindo) ..isto brilha em amarelo!
+A Divina Espada de Alberich de Saibot (+65R) (aura) (zunindo) ..isto brilha em amarelo!
+O Divino Anel de Nibelungo de Saibot (+8L) (aura) (zunindo) ..isto brilha em amarelo!(x2)
+A Divina Capa Viking de Saibot (aura) (zunindo) ..isto brilha em amarelo!
+A Divina Harpa Sagrada de Mime de Saibot (+8L) (aura) (zunindo) ..isto brilha em amarelo!
+O Divino Elmo de Fenrir de Saibot (invisível) (aura) (zunindo) ..isto brilha em amarelo!
+As Divinas Patas de Hagen de Saibot (invisível) (aura) (zunindo) ..isto brilha em amarelo!
+As Divinas Garras de Shido de Saibot (invisível) (aura) (zunindo) ..isto brilha em amarelo!
+As Divinas Escamas de Peixes de Saibot (invisível) (aura) (zunindo) ..isto brilha em amarelo!
+A Divina Carapaça de Cancer de Saibot (invisível) (aura) (zunindo) ..isto brilha em amarelo!
+O Divino Escudo de Libra de Saibot (aura) (zunindo) ..isto brilha em amarelo!
+As Divinas Garras de Leão de Saibot (aura) (zunindo) ..isto brilha em amarelo!
+As Divinas Braçadeiras de Touro de Saibot (invisível) (aura) (zunindo) ..isto brilha em amarelo!
+Divino Ten Ma Ko Fuku de Saibot (aura) (zunindo)
+Divina Agulha Escarlate de Saibot (aura) (zunindo)(x2)
+O Divino Elmo de Capricórnio de Saibot (aura) (zunindo) ..isto brilha em amarelo!
+As Divinas Botas de Gêmeos de Saibot (aura) (zunindo) ..isto brilha em amarelo!
+As Divinas Asas de Sagitário de Saibot (aura) (zunindo) ..isto brilha em amarelo!
+Os Divinos Chifres de Áries de Saibot (aura) (zunindo) ..isto brilha em amarelo!(x2)
+O Divino Cinturão de Aquário de Saibot (aura) (zunindo) ..isto brilha em amarelo!
+
+(Prox Level: 66.17M) 9.75KHp 9.18KMn 4.72KMv   >
+iden pant
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'um escudo do panteão romano', Tipo: ARMADURA
+Habilidades do Item:  DET-ALIGN DET-INVIS PROT-EVIL MIRROR-IMAGE FIRESHIELD
+Pode ser usado em: ESCUDO
+O item é: ABENÇOADO ENTALHADO AUTOENTALHAR LEVE
+Peso: [7], Valor: [400000], Lvl. Min.: [20], Remort Min.: [7]
+Aplicação na AC é de [35]
+Pode te afetar com :
+   Afeta: DANO com [6]
+   Afeta: ACERTO com [6]
+   Afeta: MAXVIDA com [200]
+Este objeto pode paralisar as habilidades:  'blindness' 'poison' 'curse'
+
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'A Divina Armadura de Siegfried', Tipo: ARMADURA
+Habilidades do Item:  SANCT
+Pode ser usado em: CORPO
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE NO_LOCATE NO_PEEK
+Peso: [12], Valor: [60000000], Lvl. Min.: [70], Remort Min.: [7]
+Aplicação na AC é de [70]
+Pode te afetar com :
+   Afeta: CON com [3]
+   Afeta: MAXMOVE com [50]
+   Afeta: MAXVIDA com [400]
+   Afeta: MAXMANA com [200]
+   Afeta: ACERTO com [8]
+   Afeta: DANO com [7]
+Este objeto pode paralisar a habilidade:  'backstab'
+
+(Prox Level: 66.17M) 9.75KHp 9.04KMn 4.72KMv   >
+iden hag
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'As Divinas Patas de Hagen', Tipo: ARMADURA
+Pode ser usado em: PERNAS
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR LEVE NO_LOCATE NO_PEEK
+Peso: [2], Valor: [3000000], Lvl. Min.: [70], Remort Min.: [7]
+Aplicação na AC é de [50]
+Pode te afetar com :
+   Afeta: DANO com [8]
+   Afeta: ACERTO com [8]
+   Afeta: MAXMANA com [100]
+   Afeta: MAXVIDA com [200]
+   Afeta: MAXMOVE com [10]
+
+(Prox Level: 66.17M) 9.75KHp 8.90KMn 4.72KMv   >
+iden harpa
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'A Divina Harpa Sagrada de Mime', Tipo: LUZ
+Habilidades do Item:  INFRA
+Pode ser usado em: SEGURAR
+O item é: AURA SOM MÁGICO ABENÇOADO ENTALHADO AUTOENTALHAR NO_LOCATE NO_PEEK
+Peso: [1], Valor: [1000000], Lvl. Min.: [80], Remort Min.: [8]
+Pode te afetar com :
+   Afeta: CON com [2]
+   Afeta: MAXMOVE com [50]
+   Afeta: MAXMANA com [50]
+   Afeta: ACERTO com [9]
+   Afeta: DANO com [9]
+
+(Prox Level: 66.17M) 9.75KHp 9.09KMn 4.72KMv   >
+
+Saibot solta O Divino Livro dos Segredos do Círculo Gélido.
+
+(Prox Level: 66.17M) 9.75KHp 9.09KMn 4.72KMv   >
+iden livro
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'O Divino Livro dos Segredos do Círculo Gélido', Tipo: ARMA
+Habilidades do Item:  SANCT
+Pode ser usado em: EMPUNHAR SEGURAR
+O item é: NÃO_DOA NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [3], Valor: [0], Lvl. Min.: [75], Remort Min.: [35]
+O Dado de Dano é [33d34] e causa um dano médio de 577.5.
+Pode te afetar com :
+   Afeta: DANO com [45]
+   Afeta: ACERTO com [45]
+Este objeto pode paralisar as habilidades:  'blindness' 'curse' 'make brave'
+
+(Prox Level: 66.17M) 9.75KHp 8.95KMn 4.72KMv   >
+
+Saibot olha para O Divino Livro dos Segredos do Círculo Gélido e pronuncia as palavras, 'Dignosco'
+Saibot se sente informado.
+
+(Prox Level: 66.17M) 9.75KHp 8.95KMn 4.72KMv   >
+iden anel
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'o Divino Anel do Círculo Gélido', Tipo: ARMADURA
+Pode ser usado em: DEDO
+O item é: NÃO_DOA INVISÍVEL ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [1], Valor: [0], Lvl. Min.: [85], Remort Min.: [35]
+Aplicação na AC é de [0]
+Pode te afetar com :
+   Afeta: MAXMOVE com [200]
+   Afeta: MAXVIDA com [600]
+   Afeta: MAXMANA com [300]
+   Afeta: ACERTO com [15]
+   Afeta: DANO com [15]
+   Afeta: FOR com [1]
+
+(Prox Level: 66.17M) 9.75KHp 9.03KMn 4.72KMv   >
+iden capa
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'a Divina Capa Mística do Círculo Gélido', Tipo: ARMADURA
+Habilidades do Item:  FORBIDDEN_SANCTUARY
+Pode ser usado em: SOBRE
+O item é: NÃO_DOA INVISÍVEL ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [3], Valor: [0], Lvl. Min.: [82], Remort Min.: [35]
+Aplicação na AC é de [0]
+Pode te afetar com :
+   Afeta: DANO com [22]
+   Afeta: ACERTO com [20]
+   Afeta: MAXVIDA com [550]
+   Afeta: MAXMANA com [550]
+   Afeta: MAXMOVE com [550]
+Este objeto pode paralisar as habilidades:  'call lightning' 'dark sacrifice'
+
+(Prox Level: 66.17M) 9.75KHp 8.88KMn 4.72KMv   >
+iden mano
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'as Divinas Manoplas do Círculo Gélido', Tipo: ARMADURA
+Pode ser usado em: MÃOS
+O item é: NÃO_DOA INVISÍVEL ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [3], Valor: [0], Lvl. Min.: [75], Remort Min.: [35]
+Aplicação na AC é de [10]
+Pode te afetar com :
+   Afeta: MAXVIDA com [500]
+   Afeta: MAXMANA com [400]
+   Afeta: ACERTO com [22]
+   Afeta: DANO com [11]
+   Afeta: CON com [2]
+
+(Prox Level: 66.17M) 9.75KHp 8.75KMn 4.72KMv   >
+iden elmo
+Você perde sua concentração!
+
+(Prox Level: 66.17M) 9.75KHp 8.73KMn 4.72KMv   >
+iden perneir
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'as Divinas Perneiras do Círculo Gélido', Tipo: ARMADURA
+Habilidades do Item:  NO_TRACK
+Pode ser usado em: PERNAS
+O item é: NÃO_DOA INVISÍVEL ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [0], Valor: [0], Lvl. Min.: [85], Remort Min.: [35]
+Aplicação na AC é de [12]
+Pode te afetar com :
+   Afeta: SAVING_PARA com [2]
+   Afeta: ACERTO com [14]
+   Afeta: DANO com [14]
+   Afeta: MAXVIDA com [300]
+   Afeta: MAXMOVE com [999]
+Este objeto pode paralisar a habilidade:  'shocking grasp'
+
+(Prox Level: 66.17M) 9.75KHp 8.59KMn 4.72KMv   >
+iden elmo
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'o Divino Elmo do Círculo Gélido', Tipo: ARMADURA
+Habilidades do Item:  SENSE-LIFE
+Pode ser usado em: CABEÇA
+O item é: NÃO_DOA INVISÍVEL ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [4], Valor: [0], Lvl. Min.: [85], Remort Min.: [35]
+Aplicação na AC é de [12]
+Pode te afetar com :
+   Afeta: MAXVIDA com [450]
+   Afeta: MAXMANA com [451]
+   Afeta: ACERTO com [20]
+   Afeta: DANO com [13]
+Este objeto pode paralisar a habilidade:  'blindness'
+
+(Prox Level: 66.17M) 9.75KHp 8.45KMn 4.72KMv   >
+iden peitor
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'o Divino Peitoral do Círculo Gélido', Tipo: ARMADURA
+Pode ser usado em: CORPO
+O item é: NÃO_DOA INVISÍVEL ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [11], Valor: [0], Lvl. Min.: [85], Remort Min.: [35]
+Aplicação na AC é de [30]
+Pode te afetar com :
+   Afeta: ACERTO com [16]
+   Afeta: DANO com [16]
+   Afeta: MAXVIDA com [555]
+   Afeta: MAXMANA com [444]
+   Afeta: MAXMOVE com [333]
+Este objeto pode paralisar as habilidades:  'quick+attack' 'rock slide'
+
+(Prox Level: 66.17M) 9.75KHp 8.67KMn 4.72KMv   >
+iden caja
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'Um cajado cravejado de safiras', Tipo: VARINHA
+Pode ser usado em: SEGURAR
+O item é: NO_LOCATE
+Peso: [10], Valor: [60000], Lvl. Min.: [70], Remort Min.: [5]
+Este VARINHA invoca:  boneshield
+Ele tem [5] cargas máximass e [5] sobrando.
+
+(Prox Level: 66.17M) 9.75KHp 8.52KMn 4.72KMv   >
+iden livro
+Você perde sua concentração!
+
+(Prox Level: 66.17M) 9.75KHp 8.51KMn 4.72KMv   >
+iden livr
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'O Divino Livro dos Segredos do Círculo Gélido', Tipo: ARMA
+Habilidades do Item:  SANCT
+Pode ser usado em: EMPUNHAR SEGURAR
+O item é: NÃO_DOA NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [3], Valor: [0], Lvl. Min.: [75], Remort Min.: [35]
+O Dado de Dano é [33d34] e causa um dano médio de 577.5.
+Pode te afetar com :
+   Afeta: DANO com [45]
+   Afeta: ACERTO com [45]
+Este objeto pode paralisar as habilidades:  'blindness' 'curse' 'make brave'
+
+(Prox Level: 66.17M) 9.75KHp 8.36KMn 4.72KMv   >
+iden 2.livr
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'O livro com os segredos do Círculo Gélido', Tipo: ARMA
+Pode ser usado em: EMPUNHAR
+O item é: AURA ABENÇOADO NO_LOCATE
+Peso: [3], Valor: [0], Lvl. Min.: [75], Remort Min.: [30]
+O Dado de Dano é [15d45] e causa um dano médio de 345.0.
+Pode te afetar com :
+   Afeta: DANO com [30]
+   Afeta: ACERTO com [30]
+Este objeto pode paralisar as habilidades:  'bash' 'dark ray'
+
+(Prox Level: 66.17M) 9.75KHp 8.21KMn 4.72KMv   >
+iden antigo
+Não é possível achar o alvo de sua magia!
+
+(Prox Level: 66.17M) 9.75KHp 8.58KMn 4.72KMv   >
+iden antigo
+Não é possível achar o alvo de sua magia!
+
+(Prox Level: 66.17M) 9.75KHp 8.58KMn 4.72KMv   >
+
+Saibot olha para O livro com os segredos do Círculo Gélido e pronuncia as palavras, 'Dignosco'
+Saibot se sente informado.
+
+(Prox Level: 66.17M) 9.75KHp 8.58KMn 4.72KMv   >
+iden 2.mar
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'o antigo cinto de marte', Tipo: ARMADURA
+Pode ser usado em: CINTURA
+O item é: SOM ANTI_MAU ENTALHADO LEVE
+Peso: [11], Valor: [50000], Lvl. Min.: [25], Remort Min.: [0]
+Aplicação na AC é de [9]
+Pode te afetar com :
+   Afeta: DES com [2]
+   Afeta: DANO com [1]
+   Afeta: ACERTO com [3]
+
+(Prox Level: 66.17M) 9.75KHp 8.44KMn 4.72KMv   >
+iden 3.mar
+Não é possível achar o alvo de sua magia!
+
+(Prox Level: 66.17M) 9.75KHp 8.44KMn 4.72KMv   >
+iden mart
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'um cinto de Marte', Tipo: ARMADURA
+Pode ser usado em: CINTURA
+O item é: AURA ANTI_MAU ANTI_NEUTRO LEVE CONJUNTO NO_LOCATE
+Peso: [22], Valor: [250000], Lvl. Min.: [70], Remort Min.: [6]
+Aplicação na AC é de [30]
+Pode te afetar com :
+   Afeta: ACERTO com [4]
+   Afeta: DANO com [5]
+   Afeta: MAXVIDA com [150]
+
+(Prox Level: 66.17M) 9.75KHp 8.30KMn 4.72KMv   >
+iden negra
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Manto da Luz Negra +]', Tipo: ARMADURA
+Pode ser usado em: SOBRE
+O item é: NÃO_DOA VISÍVEL MÁGICO ANTI_BEM ANTI_CLÉRIGO ANTI_GUERREIRO NÃO_VENDE ENTALHADO
+AUTOENTALHAR ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [1], Valor: [200000], Lvl. Min.: [70], Remort Min.: [0]
+Aplicação na AC é de [40]
+Pode te afetar com :
+   Afeta: DES com [2]
+   Afeta: INT com [2]
+   Afeta: MAXMANA com [200]
+   Afeta: DANO com [1]
+
+
+[[ Casa do Saibot ]]
+yay
+[[ Saídas: e w  ]]
+ Saibot Tenebrae está aqui.
+...ele emite uma luz brilhante!
+...ele está protegido pelo poderoso santuário!
+...ele está flutuando no ar!
+...uma aura de fogo envolve seu corpo!
+O Divino Livro dos Segredos do Círculo Gélido de Saibot (+5R)
+Uma armadura com runas antigas de Ulisses (aura)
+um cinto de Marte (aura)
+uma armadura da Minerva (aura)(x6)
+um enfeite em forma de meia lua (aura) ..isto brilha em amarelo!(x2)
+um capote de pelos de bode (aura)(x2)
+o Divino Anel do Círculo Gélido de Saibot (invisível) (+5R)(x2)
+a Divina Capa Mística do Círculo Gélido de Saibot (invisível) (+5R)
+as Divinas Manoplas do Círculo Gélido de Saibot (invisível) (+5R)
+o Divino Elmo do Círculo Gélido de Saibot (invisível) (+5R)
+as Divinas Perneiras do Círculo Gélido de Saibot (invisível) (+5R)
+o Divino Peitoral do Círculo Gélido de Saibot (invisível) (+5R)
+Um cajado cravejado de safiras
+[+ Manto da Luz Negra +] de Saibot ..isto brilha em amarelo!
+o Palantir do Círculo Gélido (aura)(x2)
+O livro com os segredos do Círculo Gélido (+3L) (aura)
+[+ Escudo da luz Negra +] de Saibot (aura)
+[+ Vara da Luz Negra   +] de Saibot (+8L) (aura) ..isto brilha em amarelo!
+[+ Brinco da luz Negra +] de Saibot (aura) ..isto brilha em amarelo!
+[+ Alma da Luz Negra   +] de Saibot (aura) ..isto brilha em amarelo!
+[+ Anel da Luz Negra   +] de Saibot (aura)
+[+ Capa da Luz Negra   +] de Saibot (+5L) (aura) ..isto brilha em amarelo!
+[+ Caveira da Luz Negra+] de Saibot (aura) ..isto brilha em amarelo!
+[+ Luvas da Luz Negra  +] de Saibot (invisível) (+1L) (aura) ..isto brilha em amarelo!
+o antigo cinto de marte (zunindo)
+
+(Prox Level: 66.17M) 9.75KHp 8.92KMn 4.72KMv   >
+iden luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Manto da Luz Negra +]', Tipo: ARMADURA
+Pode ser usado em: SOBRE
+O item é: NÃO_DOA VISÍVEL MÁGICO ANTI_BEM ANTI_CLÉRIGO ANTI_GUERREIRO NÃO_VENDE ENTALHADO
+AUTOENTALHAR ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [1], Valor: [200000], Lvl. Min.: [70], Remort Min.: [0]
+Aplicação na AC é de [40]
+Pode te afetar com :
+   Afeta: DES com [2]
+   Afeta: INT com [2]
+   Afeta: MAXMANA com [200]
+   Afeta: DANO com [1]
+
+(Prox Level: 66.17M) 9.75KHp 8.77KMn 4.72KMv   >
+iden 2.luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Escudo da luz Negra +]', Tipo: ARMADURA
+Habilidades do Item:  ALIGN-SHIELD
+Pode ser usado em: ESCUDO
+O item é: AURA NÃO_DOA ANTI_BEM ANTI_MAGO ANTI_CLÉRIGO ANTI_LADRÃO ANTI_GUERREIRO NÃO_VENDE
+ENTALHADO AUTOENTALHAR ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [15], Valor: [100000], Lvl. Min.: [60], Remort Min.: [0]
+Aplicação na AC é de [40]
+Pode te afetar com :
+   Afeta: ACERTO com [2]
+   Afeta: DANO com [3]
+   Afeta: ARMADURA com [-20]
+   Afeta: CAR com [-1]
+   Afeta: FOR com [1]
+
+
+(Prox Level: 66.17M) 9.75KHp 8.64KMn 4.72KMv   >
+iden 3.luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Vara da Luz Negra   +]', Tipo: VARINHA
+Pode ser usado em: SEGURAR
+O item é: AURA MÁGICO ANTI_MAGO ANTI_CLÉRIGO ANTI_LADRÃO ANTI_GUERREIRO ENTALHADO AUTOENTALHAR
+ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [1], Valor: [200000], Lvl. Min.: [80], Remort Min.: [0]
+Este VARINHA invoca:  energy drain
+Ele tem [20] cargas máximass e [20] sobrando.
+Pode te afetar com :
+   Afeta: IDADE com [10]
+   Afeta: SAB com [2]
+
+(Prox Level: 66.17M) 9.75KHp 8.49KMn 4.72KMv   >
+iden 4.luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Brinco da luz Negra +]', Tipo: ARMADURA
+Pode ser usado em: BRINCO
+O item é: AURA MÁGICO ANTI_BEM ANTI_MAGO ANTI_CLÉRIGO ANTI_GUERREIRO NÃO_VENDE ENTALHADO
+AUTOENTALHAR ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [1], Valor: [100000], Lvl. Min.: [60], Remort Min.: [0]
+Aplicação na AC é de [0]
+Pode te afetar com :
+   Afeta: FOR com [-1]
+   Afeta: MAXMOVE com [90]
+   Afeta: MAXVIDA com [90]
+   Afeta: DANO com [1]
+   Afeta: ACERTO com [3]
+
+(Prox Level: 66.17M) 9.75KHp 8.35KMn 4.72KMv   >
+iden 5.luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Alma da Luz Negra   +]', Tipo: LUZ
+Pode ser usado em: SEGURAR
+O item é: AURA MÁGICO ANTI_MAGO ANTI_CLÉRIGO ANTI_LADRÃO ANTI_GUERREIRO ENTALHADO AUTOENTALHAR
+ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [1], Valor: [0], Lvl. Min.: [70], Remort Min.: [0]
+Pode te afetar com :
+   Afeta: DANO com [2]
+   Afeta: ACERTO com [3]
+Este objeto pode paralisar a habilidade:  'invert alignment'
+
+(Prox Level: 66.17M) 9.75KHp 8.22KMn 4.72KMv   >
+iden 6.luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Anel da Luz Negra   +]', Tipo: ARMADURA
+Pode ser usado em: DEDO
+O item é: AURA ANTI_MAGO ANTI_CLÉRIGO ANTI_LADRÃO ANTI_GUERREIRO ENTALHADO AUTOENTALHAR
+ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [1], Valor: [100000], Lvl. Min.: [67], Remort Min.: [0]
+Aplicação na AC é de [0]
+Pode te afetar com :
+   Afeta: DES com [-2]
+   Afeta: INT com [2]
+   Afeta: ACERTO com [3]
+   Afeta: DANO com [3]
+
+(Prox Level: 66.17M) 9.75KHp 8.08KMn 4.72KMv   >
+iden 7.luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Capa da Luz Negra   +]', Tipo: ARMADURA
+Pode ser usado em: PESCOÇO
+O item é: AURA MÁGICO ANTI_MAGO ANTI_CLÉRIGO ANTI_LADRÃO ANTI_GUERREIRO ENTALHADO AUTOENTALHAR
+ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [2], Valor: [0], Lvl. Min.: [77], Remort Min.: [0]
+Aplicação na AC é de [8]
+Pode te afetar com :
+   Afeta: INT com [2]
+   Afeta: FOR com [-2]
+   Afeta: DANO com [3]
+
+(Prox Level: 66.17M) 9.75KHp 8.32KMn 4.72KMv   >
+iden 8.luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Caveira da Luz Negra+]', Tipo: ARMADURA
+Pode ser usado em: CABEÇA
+O item é: AURA MÁGICO ANTI_MAGO ANTI_CLÉRIGO ANTI_LADRÃO ANTI_GUERREIRO ENTALHADO AUTOENTALHAR
+ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [20], Valor: [100000], Lvl. Min.: [64], Remort Min.: [0]
+Aplicação na AC é de [8]
+Pode te afetar com :
+   Afeta: DANO com [2]
+   Afeta: CAR com [-2]
+   Afeta: CON com [2]
+
+(Prox Level: 66.17M) 9.75KHp 8.18KMn 4.72KMv   >
+iden 8.luz
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto '[+ Caveira da Luz Negra+]', Tipo: ARMADURA
+Pode ser usado em: CABEÇA
+O item é: AURA MÁGICO ANTI_MAGO ANTI_CLÉRIGO ANTI_LADRÃO ANTI_GUERREIRO ENTALHADO AUTOENTALHAR
+ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [20], Valor: [100000], Lvl. Min.: [64], Remort Min.: [0]
+Aplicação na AC é de [8]
+Pode te afetar com :
+   Afeta: DANO com [2]
+   Afeta: CAR com [-2]
+   Afeta: CON com [2]
+
+
+Objeto '[+ Luvas da Luz Negra  +]', Tipo: ARMADURA
+Pode ser usado em: MÃOS
+O item é: AURA INVISÍVEL MÁGICO ANTI_MAGO ANTI_CLÉRIGO ANTI_LADRÃO ANTI_GUERREIRO ENTALHADO
+AUTOENTALHAR ANTI_PALADINO ANTI_RANGER ANTI_FERREIRO ANTI_ALQUIMISTA LEVE CONJUNTO
+Peso: [7], Valor: [0], Lvl. Min.: [73], Remort Min.: [0]
+Aplicação na AC é de [5]
+Pode te afetar com :
+   Afeta: ACERTO com [3]
+   Afeta: INT com [-2]
+   Afeta: FOR com [2]
+
+Objeto 'A Tiara dos cinco elementos de Tiamat', Tipo: ARMADURA
+Habilidades do Item:  MIRROR-IMAGE WATERSHIELD FORBIDDEN_SANCTUARY
+Pode ser usado em: CABEÇA
+O item é: AURA SOM INVISÍVEL MÁGICO ABENÇOADO ENTALHADO NO_LOCATE
+Peso: [20], Valor: [5000000], Lvl. Min.: [90], Remort Min.: [40]
+Aplicação na AC é de [60]
+Pode te afetar com :
+   Afeta: CON com [-5]
+   Afeta: MAXMOVE com [600]
+   Afeta: MAXVIDA com [900]
+   Afeta: MAXMANA com [900]
+   Afeta: ACERTO com [30]
+   Afeta: DANO com [30]
+Este objeto pode paralisar as habilidades:  'blindness' 'sleep'
+
+
+Valfenda: Gemeos elfos
+Objeto 'A Faca de Caça Prateada', Tipo: ARMA
+Habilidades do Item:  DET-ALIGN SENSE-LIFE PROT-EVIL SNEAK
+Pode ser usado em: EMPUNHAR SEGURAR
+O item é: AURA SOM ANTI_MAU ENTALHADO AUTOENTALHAR LEVE ANTI_CORSÁRIO NO_LOCATE
+Peso: [6], Valor: [2000000], Lvl. Min.: [70], Remort Min.: [50]
+O Dado de Dano é [48d42] e causa um dano médio de 1032.0.
+Pode te afetar com :
+   Afeta: DANO com [35]
+   Afeta: ACERTO com [30]
+   Afeta: MAXMOVE com [500]
+   Afeta: MAXVIDA com [450]
+   Afeta: CON com [3]
+   Afeta: DES com [6]
+Este objeto pode paralisar as habilidades:  'blindness' 'curse' 'send zombie' 'soul eater'
+
+
+Objeto 'a Lança Gélida', Tipo: ARMA
+Habilidades do Item:  PROT-EVIL WATERSHIELD ICESHIELD
+Pode ser usado em: EMPUNHAR
+O item é: AURA SOM NÃO_DOA VISÍVEL MÁGICO ANTI_MAU ENTALHADO AUTOENTALHAR FOLHEADO AFIADO NO_LOCATE
+Peso: [10], Valor: [2000000], Lvl. Min.: [90], Remort Min.: [50]
+O Dado de Dano é [89d40] e causa um dano médio de 1824.5.
+Pode te afetar com :
+   Afeta: ACERTO com [98]
+   Afeta: DANO com [131]
+   Afeta: ACERTO com [23]
+Este objeto pode paralisar as habilidades:  'fireball' 'fireshield'
+
+Objeto '++O Adorno da Vingança Draconiana++', Tipo: ARMADURA
+Habilidades do Item:  DET-INVIS
+Pode ser usado em: DEDO
+O item é: AURA SOM MÁGICO ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE NO_PEEK
+Peso: [1], Valor: [200000], Lvl. Min.: [30], Remort Min.: [10]
+Aplicação na AC é de [0]
+Pode te afetar com :
+   Afeta: DANO com [4]
+   Afeta: ACERTO com [5]
+   Afeta: MAXMANA com [100]
+   Afeta: MAXVIDA com [200]
+   Afeta: MAXMOVE com [100]
+   Afeta: SAB com [3]
+
+Objeto '++As Garras da Vingança Draconiana++', Tipo: ARMADURA
+Pode ser usado em: MÃOS
+O item é: AURA SOM MÁGICO ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE NO_PEEK
+Peso: [10], Valor: [100000], Lvl. Min.: [1], Remort Min.: [10]
+Aplicação na AC é de [20]
+Pode te afetar com :
+   Afeta: DANO com [3]
+   Afeta: ACERTO com [4]
+   Afeta: MAXMANA com [100]
+   Afeta: MAXVIDA com [100]
+
+
+Infernais
+
+Objeto 'O Cinturão Brilhante de Granas, a Ranger', Tipo: ARMADURA
+Pode ser usado em: CINTURA
+O item é: AURA NÃO_DOA INVISÍVEL MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA
+NO_LOCATE
+Peso: [3], Valor: [60], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [45]
+Pode te afetar com :
+   Afeta: FOR com [4]
+   Afeta: MAXMOVE com [150]
+   Afeta: MAXMANA com [250]
+   Afeta: MAXVIDA com [350]
+   Afeta: ACERTO com [10]
+   Afeta: DANO com [11]
+
+Objeto 'A Poção da vida eterna de Nicholas Flamel, o Alquimista', Tipo: LUZ
+Habilidades do Item:  DET-INVIS SENSE-LIFE INFRA
+Pode ser usado em: SEGURAR
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR LEVE AVENTURA NO_LOCATE
+Peso: [1], Valor: [60], Lvl. Min.: [0], Remort Min.: [0]
+Pode te afetar com :
+   Afeta: ARMADURA com [-20]
+   Afeta: CON com [5]
+   Afeta: MAXVIDA com [250]
+   Afeta: MAXMANA com [250]
+   Afeta: ACERTO com [8]
+   Afeta: DANO com [10]
+
+Objeto 'Angrist, a Adaga forjada pelo mestre Anão de Nogrod', Tipo: ARMA
+Habilidades do Item:  INVIS
+Pode ser usado em: EMPUNHAR SEGURAR
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [1], Valor: [90], Lvl. Min.: [0], Remort Min.: [199]
+O Dado de Dano é [15d13] e causa um dano médio de 105.0.
+Pode te afetar com :
+   Afeta: DES com [4]
+   Afeta: MAXMOVE com [200]
+   Afeta: MAXVIDA com [300]
+   Afeta: MAXMANA com [300]
+   Afeta: ACERTO com [298]
+   Afeta: DANO com [298]
+Este objeto pode paralisar as habilidades:  'blindness' 'sleep'
+
+Objeto 'Um Bracelete de Flores Primaveris', Tipo: ARMADURA
+Pode ser usado em: PUNHO
+O item é: AURA NÃO_DOA INVISÍVEL NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [5], Valor: [50], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [25]
+Pode te afetar com :
+   Afeta: SAB com [2]
+   Afeta: CON com [2]
+   Afeta: MAXVIDA com [250]
+   Afeta: MAXMANA com [200]
+   Afeta: ACERTO com [8]
+   Afeta: DANO com [9]
+Este objeto pode paralisar a habilidade:  'poison'
+
+Objeto 'O Bracelete sagrado de Karin, a Sacerdotisa', Tipo: ARMADURA
+Habilidades do Item:  FORBIDDEN_SANCTUARY
+Pode ser usado em: PUNHO
+O item é: AURA SOM NÃO_DOA INVISÍVEL MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA
+NO_LOCATE
+Peso: [1], Valor: [70], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [40]
+Pode te afetar com :
+   Afeta: SAB com [3]
+   Afeta: MAXMOVE com [100]
+   Afeta: MAXVIDA com [300]
+   Afeta: MAXMANA com [300]
+   Afeta: ACERTO com [10]
+   Afeta: DANO com [11]
+Este objeto pode paralisar as habilidades:  'curse' 'soul eater'
+
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'O brinco de ouro e prata de Cleópatra, a Rainha do Egi', Tipo: ARMADURA
+Pode ser usado em: BRINCO
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [1], Valor: [80], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [35]
+Pode te afetar com :
+   Afeta: CAR com [3]
+   Afeta: MAXMOVE com [50]
+   Afeta: MAXVIDA com [300]
+   Afeta: MAXMANA com [300]
+   Afeta: ACERTO com [17]
+   Afeta: DANO com [16]
+Este objeto pode paralisar a habilidade:  'invert alignment'
+
+Objeto 'A Poção da vida eterna de Nicholas Flamel, o Alquimista', Tipo: LUZ
+Habilidades do Item:  DET-INVIS SENSE-LIFE INFRA
+Pode ser usado em: SEGURAR
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [1], Valor: [60], Lvl. Min.: [0], Remort Min.: [0]
+Pode te afetar com :
+   Afeta: ARMADURA com [-20]
+   Afeta: CON com [5]
+   Afeta: MAXVIDA com [250]
+   Afeta: MAXMANA com [250]
+   Afeta: ACERTO com [8]
+   Afeta: DANO com [10]
+
+(Prox Level: 690.77M) 15.38KHp 14.57KMn 10.16KMv   >
+give flam abr
+Você dá A Poção da vida eterna de Nicholas Flamel, o Alquimista para Abracon.
+
+(Prox Level: 690.77M) 15.38KHp 14.57KMn 10.16KMv   >
+
+Abracon dá O Cinto Prateado de Petrine, a Fada da Ilusão para você.
+
+(Prox Level: 690.77M) 15.38KHp 14.57KMn 10.16KMv   >
+iden cinto
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'O Cinto Prateado de Petrine, a Fada da Ilusão', Tipo: ARMADURA
+Habilidades do Item:  MIRROR-IMAGE
+Pode ser usado em: CINTURA
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR LEVE AVENTURA NO_LOCATE
+Peso: [1], Valor: [40], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [30]
+Pode te afetar com :
+   Afeta: CON com [2]
+   Afeta: MAXMOVE com [50]
+   Afeta: MAXVIDA com [200]
+   Afeta: MAXMANA com [150]
+   Afeta: ACERTO com [8]
+   Afeta: DANO com [8]
+
+(Prox Level: 690.77M) 15.38KHp 14.56KMn 10.16KMv   >
+iden puls
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'A Pulseira de Isolda, a Donzela', Tipo: ARMADURA
+Pode ser usado em: PUNHO
+O item é: AURA NÃO_DOA NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [1], Valor: [45], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [25]
+Pode te afetar com :
+   Afeta: INT com [3]
+   Afeta: FOR com [2]
+   Afeta: MAXMANA com [150]
+   Afeta: MAXVIDA com [200]
+   Afeta: DANO com [7]
+   Afeta: ACERTO com [8]
+Este objeto pode paralisar a habilidade:  'curse'
+
+Objeto 'Um Palantír Élfico', Tipo: ARMA
+Pode ser usado em: SEGURAR
+O item é: AURA NÃO_DOA MÁGICO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [5], Valor: [35], Lvl. Min.: [0], Remort Min.: [115]
+O Dado de Dano é [0d0] e causa um dano médio de 0.0.
+Pode te afetar com :
+   Afeta: DANO com [205] - 172
+   Afeta: ACERTO com [190] - 172
+   Afeta: ARMADURA com [-50]
+   Afeta: MAXMANA com [350]
+   Afeta: MAXVIDA com [300]
+Este objeto pode paralisar a habilidade:  'blindness'
+
+Objeto 'O arco da pureza divina de Ártemis, a Deusa da caça', Tipo: ARMA
+Pode ser usado em: EMPUNHAR
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR FOLHEADO AVENTURA
+NO_LOCATE
+Peso: [1], Valor: [80], Lvl. Min.: [0], Remort Min.: [114]
+O Dado de Dano é [21d14] e causa um dano médio de 157.5.
+Pode te afetar com :
+   Afeta: CON com [5]
+   Afeta: MAXMOVE com [400]
+   Afeta: MAXVIDA com [400]
+   Afeta: MAXMANA com [400]
+   Afeta: ACERTO com [189]
+   Afeta: DANO com [214]
+
+   Objeto 'As delicadas Asas de Fifenall, o Anjo da cura', Tipo: ARMADURA
+Habilidades do Item:  FORBIDDEN_SANCTUARY
+Pode ser usado em: SOBRE
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [1], Valor: [70], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [50]
+Pode te afetar com :
+   Afeta: CON com [5]
+   Afeta: MAXMOVE com [50]
+   Afeta: MAXVIDA com [300]
+   Afeta: MAXMANA com [400]
+   Afeta: ACERTO com [10]
+   Afeta: DANO com [10]
+Este objeto pode paralisar a habilidade:  'poison'
+
+Objeto 'As Celestes Botas de Háma, O Cavaleiro de Rohan', Tipo: ARMADURA
+Pode ser usado em: PES
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [1], Valor: [40], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [30]
+Pode te afetar com :
+   Afeta: CAR com [3]
+   Afeta: MAXMOVE com [50]
+   Afeta: MAXVIDA com [150]
+   Afeta: MAXMANA com [150]
+   Afeta: ACERTO com [6]
+   Afeta: DANO com [7]
+Este objeto pode paralisar a habilidade:  'send zombie'
+
+Objeto 'A Armadura Grega de Aquiles', Tipo: ARMADURA
+Pode ser usado em: CORPO
+O item é: AURA SOM NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR LEVE AVENTURA NO_LOCATE
+Peso: [3], Valor: [70], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [50]
+Pode te afetar com :
+   Afeta: MAXMOVE com [100]
+   Afeta: CON com [2]
+   Afeta: MAXVIDA com [250]
+   Afeta: MAXMANA com [250]
+   Afeta: ACERTO com [10]
+   Afeta: DANO com [9]
+Este objeto pode paralisar a habilidade:  'bash'
+
+                       :
+Objeto 'A Aliança forjada por Dwalin, o ferreiro Anão', Tipo: ARMADURA
+Habilidades do Item:  SENSE-LIFE HIDE
+Pode ser usado em: DEDO
+O item é: AURA NÃO_DOA NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [1], Valor: [40], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [20]
+Pode te afetar com :
+   Afeta: CON com [2]
+   Afeta: MAXMOVE com [100]
+   Afeta: DANO com [7]
+   Afeta: ACERTO com [6]
+   Afeta: MAXMANA com [150]
+   Afeta: MAXVIDA com [150]
+
+Objeto 'O Escudo de Guerra de Spartacus', Tipo: ARMADURA
+Pode ser usado em: ESCUDO
+O item é: AURA NÃO_DOA MÁGICO ABENÇOADO NÃO_VENDE ENTALHADO AUTOENTALHAR AVENTURA NO_LOCATE
+Peso: [10], Valor: [30], Lvl. Min.: [0], Remort Min.: [0]
+Aplicação na AC é de [40]
+Pode te afetar com :
+   Afeta: FOR com [3]
+   Afeta: MAXMOVE com [200]
+   Afeta: MAXMANA com [300]
+   Afeta: MAXVIDA com [300]
+   Afeta: ACERTO com [8]
+   Afeta: DANO com [9]
+Este objeto pode paralisar a habilidade:  'kick'
+
+Valfenda
+
+Você se sente informado:
+Objeto 'O Sinete do Capitão da Guarda', Tipo: ARMADURA
+Pode ser usado em: DEDO
+O item é: AURA SOM NÃO_DOA MÁGICO NO_LOCATE
+Peso: [1], Valor: [2000000], Lvl. Min.: [80], Remort Min.: [50]
+Aplicação na AC é de [0]
+Pode te afetar com :
+   Afeta: DANO com [24]
+   Afeta: ACERTO com [21]
+   Afeta: MAXMANA com [550]
+   Afeta: MAXVIDA com [550]
+   Afeta: MAXMOVE com [550]
+   Afeta: CON com [4]
+
+(Prox Level: 3.30M) 18.75KHp 15.12KMn 10.50KMv   >
+iden armad
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'A Incrível Armadura de Além-Mar', Tipo: ARMADURA
+Habilidades do Item:  PROT-EVIL ALIGN-SHIELD FIRESHIELD FORBIDDEN_SANCTUARY
+Pode ser usado em: CORPO
+O item é: AURA NÃO_DOA MÁGICO ABENÇOADO ANTI_MAU ENTALHADO AUTOENTALHAR LEVE NO_LOCATE
+Peso: [4], Valor: [2000000], Lvl. Min.: [70], Remort Min.: [50]
+Aplicação na AC é de [75]
+Pode te afetar com :
+   Afeta: DANO com [27]
+   Afeta: ACERTO com [27]
+   Afeta: MAXMANA com [700]
+   Afeta: MAXVIDA com [800]
+   Afeta: CON com [4]
+   Afeta: DES com [4]
+Este objeto pode paralisar as habilidades:  'bash' 'make brave' 'lightning bolt' 'poison' 'curse'
+
+(Prox Level: 3.30M) 18.75KHp 14.96KMn 10.50KMv   >
+iden lan
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'a Lança Gélida', Tipo: ARMA
+Habilidades do Item:  PROT-EVIL WATERSHIELD ICESHIELD
+Pode ser usado em: EMPUNHAR
+O item é: AURA SOM NÃO_DOA VISÍVEL MÁGICO ANTI_MAU ENTALHADO AUTOENTALHAR FOLHEADO AFIADO NO_LOCATE
+Peso: [10], Valor: [2000000], Lvl. Min.: [90], Remort Min.: [50]
+O Dado de Dano é [89d40] e causa um dano médio de 1824.5.
+Pode te afetar com :
+   Afeta: ACERTO com [98]
+   Afeta: DANO com [131]
+   Afeta: ACERTO com [23]
+Este objeto pode paralisar as habilidades:  'fireball' 'fireshield'
+
+(Prox Level: 3.30M) 18.75KHp 14.80KMn 10.50KMv   >
+iden cinto
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'Um cinto de folhas lavradas em prata', Tipo: ARMADURA
+Pode ser usado em: CINTURA
+O item é: AURA MÁGICO NO_LOCATE
+Peso: [2], Valor: [890000], Lvl. Min.: [90], Remort Min.: [50]
+Aplicação na AC é de [35]
+Pode te afetar com :
+   Afeta: MAXMOVE com [400]
+   Afeta: MAXVIDA com [500]
+   Afeta: MAXMANA com [600]
+   Afeta: DANO com [28]
+   Afeta: ACERTO com [27]
+Este objeto pode paralisar a habilidade:  'soul eater'
+
+                                                                                               '
+Você se sente informado:
+Objeto 'O Anel de Safira de Elrond', Tipo: ARMADURA
+Habilidades do Item:  DET-ALIGN DET-MAGIC SENSE-LIFE FORBIDDEN_SANCTUARY
+Pode ser usado em: DEDO
+O item é: AURA NÃO_DOA INVISÍVEL MÁGICO ABENÇOADO ANTI_MAU ANTI_ANÃO ANTI_CORSÁRIO NO_LOCATE
+Peso: [1], Valor: [2000000], Lvl. Min.: [90], Remort Min.: [50]
+Aplicação na AC é de [10]
+Pode te afetar com :
+   Afeta: CON com [4]
+   Afeta: DANO com [20]
+   Afeta: ACERTO com [20]
+   Afeta: MAXVIDA com [700]
+   Afeta: MAXMANA com [1000]
+   Afeta: SAB com [6]
+Este objeto pode paralisar as habilidades:  'curse' 'poison' 'blindness' 'fireball'
+
+
+
+Saibot está usando:
+<Como luz>      o Divino Palantir do Círculo Gélido de Saibot
+<Na cabeça>     A Tiara dos cinco elementos de Tiamat de Saibot (invisível) (+5R) (aura) (zunindo)
+..isto brilha em amarelo!
+<Como brinco>   o Divino Pingente do Círculo Gélido de Saibot (invisível)
+<Como brinco>   o Divino Pingente do Círculo Gélido de Saibot (invisível)
+<No pescoço>    o Divino Amuleto do Círculo Gélido de Saibot (invisível)
+<No pescoço>    o Divino Amuleto do Círculo Gélido de Saibot (invisível)
+<No corpo>      A Incrível Armadura de Além-Mar de Saibot (invisível) (+15R) (aura) ..isto brilha em
+amarelo!
+<Sobre o corpo> as asas suntuosas de Bahamut de Saibot (invisível) (+10R) (aura) (zunindo) ..isto
+brilha em amarelo!
+<Nos braços>    as Divinas Bracadeiras do Círculo Gélido de Saibot (invisível)
+<No punho>      O Bracelete sagrado de Karin, a Sacerdotisa de Saibot (invisível) (aura) (zunindo)
+..isto brilha em amarelo!
+<No punho>      Um Bracelete de Flores Primaveris de Saibot (invisível) (aura)
+<Nas mãos>      as Divinas Manoplas do Círculo Gélido de Saibot (invisível)
+<No dedo>       Vilya, o Anel de Safira de Saibot (invisível) (+15R) (aura) ..isto brilha em
+amarelo!
+<No dedo>       O Sinete do Capitão da Guarda de Saibot (invisível) (+15R) (aura) (zunindo) ..isto
+brilha em amarelo!
+<Empunhando>    A Exterminadora Divina de Saibot (+177R) ..isto brilha em amarelo!
+<Secundária>    A Exterminadora Divina de Saibot (+177R) ..isto brilha em amarelo!
+<Na cintura>    Um cinto de folhas lavradas em prata de Saibot (invisível) (+15R) (aura) ..isto
+brilha em amarelo!
+<Nas pernas>    as Divinas Perneiras do Círculo Gélido de Saibot (invisível)
+<Nos pés>       as Divinas Botas do Círculo Gélido de Saibot (invisível)
+<Como símbolo>  o Medalhão Negro do Clã dos Assassinos de Saibot (invisível)
+
+
+
+
+
+(Prox Level: 690.77M) 15.38KHp 14.73KMn 10.16KMv   >
+iden pala
+Você pronuncia as palavras mágicas, 'Dignosco'
+Você se sente informado:
+Objeto 'o Divino Palantir do Círculo Gélido', Tipo: LUZ
+Habilidades do Item:  DET-INVIS SENSE-LIFE PROT-EVIL PROT-GOOD
+Pode ser usado em: SEGURAR
+O item é: NÃO_DOA NÃO_VENDE ENTALHADO AUTOENTALHAR CONJUNTO NO_LOCATE
+Peso: [1], Valor: [0], Lvl. Min.: [85], Remort Min.: [35]
+Pode te afetar com :
+   Afeta: MAXMOVE com [250]
+   Afeta: MAXVIDA com [250]
+   Afeta: IDADE com [10]
+   Afeta: DANO com [14]
+   Afeta: ACERTO com [14]
+   Afeta: MAXMANA com [250]
+Este objeto pode paralisar a habilidade:  'sleep'

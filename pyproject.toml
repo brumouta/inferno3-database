@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "inferno3-database"
+version = "0.1.0"
+description = ""
+authors = ["Bruno Mouta <brumouta@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+web_server = "scripts:web_server"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.101.1"
+uvicorn = "^0.23.2"
+peewee = "^3.16.3"
+pyyaml = "^6.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

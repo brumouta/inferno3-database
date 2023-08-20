@@ -1425,6 +1425,22 @@ Este objeto pode paralisar a habilidade:  'kick'
 
 Valfenda
 
+Valfenda: Gildor
+Objeto 'a Divina Flauta de Ébano Cravada de Runas', Tipo: ARMA
+Pode ser usado em: SEGURAR
+O item é: AURA SOM MÁGICO ENTALHADO AUTOENTALHAR LEVE FOLHEADO ANTI_ROHIRRIM ANTI_BEORNING ANTI_ANÃO
+ANTI_HOBBIT ANTI_CORSÁRIO NO_LOCATE
+Peso: [6], Valor: [800000], Lvl. Min.: [50], Remort Min.: [117]
+O Dado de Dano é [1d1] e causa um dano médio de 1.0.
+Pode te afetar com :
+   Afeta: CON com [3]
+   Afeta: MAXMANA com [500]
+   Afeta: MAXVIDA com [500]
+   Afeta: MAXMOVE com [500]
+   Afeta: ACERTO com [178]
+   Afeta: DANO com [183]
+Este objeto pode paralisar as habilidades:  'blindness' 'make brave'
+
 Você se sente informado:
 Objeto 'O Sinete do Capitão da Guarda', Tipo: ARMADURA
 Pode ser usado em: DEDO
@@ -1541,7 +1557,16 @@ brilha em amarelo!
 
 
 
-
+Objeto 'A Divina Coroa do Rei Goblin', Tipo: ARMADURA
+Habilidades do Item:  INFRA
+Pode ser usado em: CABEÇA
+O item é: ENTALHADO AUTOENTALHAR LEVE
+Peso: [12], Valor: [2000000], Lvl. Min.: [4], Remort Min.: [0]
+Aplicação na AC é de [6]
+Pode te afetar com :
+   Afeta: DANO com [2]
+   Afeta: MAXVIDA com [60]
+Este objeto pode paralisar a habilidade:  'kick'
 
 (Prox Level: 690.77M) 15.38KHp 14.73KMn 10.16KMv   >
 iden pala

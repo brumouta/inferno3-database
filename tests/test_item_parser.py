@@ -7,7 +7,7 @@ class TestItemParser(unittest.TestCase):
     def test_parse(self):
         item_text = """Você se sente informado:
 Objeto 'O Anel de Safira de Elrond', Tipo: ARMADURA
-Habilidades do Item:  DET-ALIGN DET-MAGIC SENSE-LIFE FORBIDDEN_SANCTUARY
+Habilidades do Item:  DET-ALIGN DET-MAGIC SENSE-LIFE FORBIDDEN_SANCTUARY ENTALHADO
 O item é: AURA NÃO_DOA INVISÍVEL MÁGICO ABENÇOADO ANTI_MAU ANTI_ANÃO ANTI_CORSÁRIO NO_LOCATE
 Peso: [1], Valor: [2000000], Lvl. Min.: [90], Remort Min.: [50]
 Aplicação na AC é de [10]

@@ -9,7 +9,7 @@ def parse_items(text: str):
         start = indices[index]
         end = indices[index + 1] if len(indices) > index + 1 else len(text)
         chunk = text[start:end]
-        search = re.search(r"(Este objeto pode paralisar.+\')", chunk)
+        search = re.search(r"(Drop:.+\n)|(Capacidade:.+])|(Ele tem.*sobrando.)|(Este objeto pode paralisar.+\')", chunk)
         if search:
             last_line = search.group(0)
         else:

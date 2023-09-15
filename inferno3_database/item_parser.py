@@ -1,5 +1,7 @@
 import re
 
+from inferno3_database.domain.ports.schemas.items import ItemDto
+
 
 def parse_item(item_text: str):
     effects = {}
@@ -13,7 +15,8 @@ def parse_item(item_text: str):
         if line.startswith("Habilidades"):
             item["abilities"] = line.split(":")[1].strip().split(" ")
         if line.startswith("O item"):
-            item["properties"] = line.split(":")[1].strip().split(" ")
+            properties = line.split(":")[1].strip().split(" ")
+            item["properties"] = [property for property in properties if property not in ["ENTALHADO"]]
         if line.startswith("Peso:"):
             for key, chunk in zip(
                 ["weight", "value", "level", "remort"], line.split(",")
@@ -30,5 +33,15 @@ def parse_item(item_text: str):
             else:
                 item["armor"] += value
         if line.startswith("Este objeto pode"):
-            item["prevents"] = line.split(":")[1].replace("'", "").strip().split(" ")
-    return item
+            prevents = line.split(":")[1]
+            m = re.findall(r"'(.*?)'", prevents)
+            item["prevents"] = m
+        if line.startswith("Capacidade:"):
+            m = re.search(r"\[(?P<value>.+)]", line.split(":")[1])
+            item["capacity"] = m.groupdict().get("value")
+        if line.startswith("Este VARINHA invoca:"):
+            # add wand spell and charges
+            item["wand"] = line.split(":")[1].strip()
+        if line.startswith("Drop"):
+            item["mob"] = line.split(":")[1].strip()
+    return ItemDto(**item)

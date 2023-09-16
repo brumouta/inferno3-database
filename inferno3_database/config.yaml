@@ -1,0 +1,5 @@
+db:
+  url: "mongodb+srv://inferno3:MvEDkCrU6yqLVKLO@inferno3.7vpp3st.mongodb.net/?retryWrites=true&w=majority"
+  username: "inferno3"
+  password: "MvEDkCrU6yqLVKLO"
+  database: "inferno3"

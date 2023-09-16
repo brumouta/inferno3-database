@@ -6,7 +6,7 @@ import yaml
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-with open(ROOT_DIR + "/../config.yaml") as file:
+with open(ROOT_DIR + "/config.yaml") as file:
     config = yaml.load(file, Loader=yaml.FullLoader)
     print("Successfully loaded the configuration")
 

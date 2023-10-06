@@ -1,13 +1,14 @@
 import {ItemsTable} from "@/app/components/ItemsTable";
-import {Item} from "@/app/types/item";
-import {getItems} from "@/app/useItems";
+import {get} from "./lib/api";
+import {Item} from "./types/item";
 
 
 export default async function Home() {
-  const items: Item[] = await getItems()
+  const res = await get<Item[]>(`${process.env.BACKEND_URL}/v1/items`);
+
   return (
       <main>
-        <ItemsTable items={items} ></ItemsTable>
+        <ItemsTable items={res.data} ></ItemsTable>
       </main>
   );
 }

@@ -1,6 +1,12 @@
 import re
+from enum import Enum
 
 from inferno3_database.domain.ports.schemas.items import ItemDto
+
+
+TYPES = Enum('Types', ['ARMA', 'ARMADURA', 'COMIDA', 'LUZ', 'CHAVE',
+                       'TESOURO', 'DINHEIRO', 'CONTAINER', 'VARINHA',
+                       'POÇÃO', 'OUTRO', 'LIXO', 'INDEFINIDO'])
 
 
 def parse_item(item_text: str):
@@ -14,6 +20,8 @@ def parse_item(item_text: str):
             item["type"] = m.groupdict().get("type").capitalize()
         if line.startswith("Habilidades"):
             item["abilities"] = line.split(":")[1].strip().split(" ")
+        if line.startswith("Pode ser usado em:"):
+            item["slot"] = line.split(':')[1].strip().split(" ")
         if line.startswith("O item"):
             properties = line.split(":")[1].strip().split(" ")
             item["properties"] = [property for property in properties if property not in ["ENTALHADO"]]
@@ -44,4 +52,6 @@ def parse_item(item_text: str):
             item["wand"] = line.split(":")[1].strip()
         if line.startswith("Drop"):
             item["mob"] = line.split(":")[1].strip()
+        if line.startswith("Room"):
+            item["room"] = line.split(":")[1].strip()
     return ItemDto(**item)

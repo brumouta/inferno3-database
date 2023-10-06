@@ -15,6 +15,7 @@ class ItemDto(BaseModel):
     name: str
     type: str
     abilities: Optional[list[str]] = []
+    slot: Optional[list[str]] = []
     properties: Optional[list[str]] = []
     level: int
     remort: int
@@ -26,6 +27,8 @@ class ItemDto(BaseModel):
     capacity: Optional[str] = Field(None)
     wand: Optional[str] = Field(None)
     mob: Optional[str] = Field(None)
+    room: Optional[str] = Field(None)
+    area: Optional[str] = Field(None)
 
     class Config:
         populate_by_name = True

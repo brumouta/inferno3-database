@@ -14,6 +14,7 @@ function TopNavbar() {
     >
       <Logo />
       <Stack direction='row' gap='24px'>
+        {/*<Figlet text='Inferno3' />*/}
       </Stack>
     </Stack>
   );

@@ -7,16 +7,12 @@ import {Item} from "@/app/types/item";
 const formatArray = (params: any) => {
   return String(params.value).replaceAll(',', '\n');
 };
-const cons = (params: any) => {
-  console.log(params);
-  return params.value;
-};
+
 const formatEffects = (params: any) => {
-  var effects = ''
+  let effects = '';
   Object.entries(params.value).forEach(([key, value], index) => {
     effects += `${key}: ${value}\n`;
   });
-  console.log(effects);
   return effects;
 };
 
@@ -28,13 +24,16 @@ const columns: GridColDef[] = [
   { field: 'value', headerName: 'Valor', width: 100 },
   { field: 'weight', headerName: 'Peso', width: 80 },
   { field: 'armor', headerName: 'Armadura', width: 120 },
+  { field: 'slot', headerName: 'Local', width: 120 },
   { field: 'abilities', headerName: 'Habilidades', width: 130, valueFormatter: formatArray },
   { field: 'properties', headerName: 'Propriedades', width: 150, valueFormatter: formatArray },
   { field: 'effects', headerName: 'Afetamentos', width: 130, valueFormatter: formatEffects},
-  { field: 'prevents', headerName: 'Prevenir', width: 100 },
+  { field: 'prevents', headerName: 'Prevenir', width: 120 },
   { field: 'capacity', headerName: 'Capacidade', width: 100 },
   { field: 'wand', headerName: 'Varinha', width: 100 },
   { field: 'mob', headerName: 'Mob', width: 100 },
+  { field: 'room', headerName: 'Sala', width: 100 },
+  { field: 'area', headerName: 'Área', width: 100 },
 ];
 
 

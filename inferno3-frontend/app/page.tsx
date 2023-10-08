@@ -1,6 +1,6 @@
-import {ItemsTable} from "@/app/components/ItemsTable";
-import {get} from "./lib/api";
-import {Item} from "./types/item";
+import {ItemsTable} from "@/components/ItemsTable";
+import {get} from "@/lib/api";
+import {Item} from "@/types/item";
 
 
 export default async function Home() {

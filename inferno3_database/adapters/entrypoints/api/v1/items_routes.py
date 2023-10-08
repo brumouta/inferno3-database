@@ -22,6 +22,20 @@ async def list_items(request: Request):
     )
 
 
+@router.get("/infernais", response_model=list[ItemDto])
+async def list_items(request: Request):
+    return Response(
+        content=json.dumps(
+            jsonable_encoder(
+                await request.app.db.items.find(
+                    {"$text": {"$search": "Infernais"}}
+                ).to_list(length=100)
+            )
+        ),
+        status_code=200,
+    )
+
+
 @router.post("/", response_model=list[ItemDto])
 async def insert_item(request: Request, text: Text):
     unparsed_items = text_parser.parse_items(text.text)

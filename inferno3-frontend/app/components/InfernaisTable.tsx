@@ -29,9 +29,6 @@ const columns: GridColDef[] = [
   { field: 'properties', headerName: 'Propriedades', width: 150, valueFormatter: formatArray },
   { field: 'effects', headerName: 'Afetamentos', width: 130, valueFormatter: formatEffects},
   { field: 'prevents', headerName: 'Prevenir', width: 120 },
-  { field: 'capacity', headerName: 'Capacidade', width: 100 },
-  { field: 'wand', headerName: 'Varinha', width: 100 },
-  { field: 'mob', headerName: 'Mob', width: 100 },
   { field: 'seller', headerName: 'Vendedor', width: 100 },
   { field: 'price', headerName: 'Preço', width: 100 },
   { field: 'room', headerName: 'Sala', width: 100 },
@@ -43,7 +40,7 @@ interface Props {
   items: Item[];
 }
 
-const ItemsTable = ({ items }: Props) => {
+const InfernaisTable = ({ items }: Props) => {
   return (
       <Container>
         <DataGrid experimentalFeatures={{ariaV7: true}}
@@ -66,4 +63,4 @@ const ItemsTable = ({ items }: Props) => {
 }
 
 
-export { ItemsTable };
+export { InfernaisTable };

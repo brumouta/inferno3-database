@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-import logo from '../icon.png'
+import logo from '@/icon.png'
 
 function Logo() {
   return (

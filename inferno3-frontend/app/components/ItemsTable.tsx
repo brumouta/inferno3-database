@@ -32,6 +32,8 @@ const columns: GridColDef[] = [
   { field: 'capacity', headerName: 'Capacidade', width: 100 },
   { field: 'wand', headerName: 'Varinha', width: 100 },
   { field: 'mob', headerName: 'Mob', width: 100 },
+  { field: 'seller', headerName: 'Vendedor', width: 100 },
+  { field: 'price', headerName: 'Preço', width: 100 },
   { field: 'room', headerName: 'Sala', width: 100 },
   { field: 'area', headerName: 'Área', width: 100 },
 ];

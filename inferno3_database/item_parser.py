@@ -4,14 +4,29 @@ from enum import Enum
 from inferno3_database.domain.ports.schemas.items import ItemDto
 
 
-TYPES = Enum('Types', ['ARMA', 'ARMADURA', 'COMIDA', 'LUZ', 'CHAVE',
-                       'TESOURO', 'DINHEIRO', 'CONTAINER', 'VARINHA',
-                       'POÇÃO', 'OUTRO', 'LIXO', 'INDEFINIDO'])
+TYPES = Enum(
+    "Types",
+    [
+        "ARMA",
+        "ARMADURA",
+        "COMIDA",
+        "LUZ",
+        "CHAVE",
+        "TESOURO",
+        "DINHEIRO",
+        "CONTAINER",
+        "VARINHA",
+        "POÇÃO",
+        "OUTRO",
+        "LIXO",
+        "INDEFINIDO",
+    ],
+)
 
 
 def parse_item(item_text: str):
     effects = {}
-    item = {"effects": effects}
+    item = {"armor": 0, "effects": effects}
     for line in item_text.split("\n"):
         line = line.strip()
         if line.startswith("Objeto"):
@@ -21,10 +36,12 @@ def parse_item(item_text: str):
         if line.startswith("Habilidades"):
             item["abilities"] = line.split(":")[1].strip().split(" ")
         if line.startswith("Pode ser usado em:"):
-            item["slot"] = line.split(':')[1].strip().split(" ")
+            item["slot"] = line.split(":")[1].strip().split(" ")
         if line.startswith("O item"):
             properties = line.split(":")[1].strip().split(" ")
-            item["properties"] = [property for property in properties if property not in ["ENTALHADO"]]
+            item["properties"] = [
+                property for property in properties if property not in ["ENTALHADO"]
+            ]
         if line.startswith("Peso:"):
             for key, chunk in zip(
                 ["weight", "value", "level", "remort"], line.split(",")
@@ -54,4 +71,10 @@ def parse_item(item_text: str):
             item["mob"] = line.split(":")[1].strip()
         if line.startswith("Room"):
             item["room"] = line.split(":")[1].strip()
+        if line.startswith("Area"):
+            item["area"] = line.split(":")[1].strip()
+        if line.startswith("Vendedor"):
+            item["seller"] = line.split(":")[1].strip()
+        if line.startswith("Preço"):
+            item["price"] = line.split(":")[1].strip()
     return ItemDto(**item)

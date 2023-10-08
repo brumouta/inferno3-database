@@ -11,10 +11,12 @@ from inferno3_database.domain.ports.schemas.items import ItemDto, Text
 router = APIRouter()
 
 
-@router.get("/")
+@router.get("/", response_model=list[ItemDto])
 async def list_items(request: Request):
     return Response(
-        content=json.dumps(jsonable_encoder(await request.app.db.items.find().to_list(length=100))),
+        content=json.dumps(
+            jsonable_encoder(await request.app.db.items.find().to_list(length=100))
+        ),
         # content=json.dumps(jsonable_encoder(await request.app.db.items.count_documents({}))),
         status_code=200,
     )
@@ -40,7 +42,7 @@ async def options() -> Response:
     return Response(
         headers={
             "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
-            "Access-Control-Allow-Origin": "*"
+            "Access-Control-Allow-Origin": "*",
         },
         status_code=204,
     )

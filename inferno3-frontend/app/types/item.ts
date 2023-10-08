@@ -14,6 +14,8 @@ export interface Item {
   capacity: string | undefined;
   wand: string | undefined;
   mob: string | undefined;
+  seller: string | undefined;
+  price: string | undefined;
   room: string | undefined;
   area: string | undefined;
 }

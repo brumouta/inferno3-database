@@ -15,6 +15,9 @@ def parse_items(text: str):
             for regex in [
                 r"Room:.+?\n",
                 r"Drop:.+?\n",
+                r"Area:.+?\n",
+                r"Vendedor:.+?\n",
+                r"Preço:.+?\n",
                 r"Capacidade:.+?]\n",
                 r"Este objeto pode paralisar.+'\n",
                 r"Afeta:.+]",

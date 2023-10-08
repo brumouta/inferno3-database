@@ -29,6 +29,8 @@ class ItemDto(BaseModel):
     mob: Optional[str] = Field(None)
     room: Optional[str] = Field(None)
     area: Optional[str] = Field(None)
+    seller: Optional[str] = Field(None)
+    price: Optional[str] = Field(None)
 
     class Config:
         populate_by_name = True

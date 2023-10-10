@@ -23,6 +23,8 @@ const columns: GridColDef[] = [
   { field: 'remort', headerName: 'Remort', width: 100 },
   { field: 'value', headerName: 'Valor', width: 100 },
   { field: 'weight', headerName: 'Peso', width: 80 },
+  { field: 'dice', headerName: 'Dado de Dano', width: 80 },
+  { field: 'damage', headerName: 'Dano médio', width: 80 },
   { field: 'armor', headerName: 'Armadura', width: 120 },
   { field: 'slot', headerName: 'Local', width: 120 },
   { field: 'abilities', headerName: 'Habilidades', width: 130, valueFormatter: formatArray },

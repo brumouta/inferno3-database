@@ -47,6 +47,13 @@ def parse_item(item_text: str):
                 ["weight", "value", "level", "remort"], line.split(",")
             ):
                 item[key] = int(re.search(r"(?<=\[).+?(?=])", chunk).group(0))
+        if line.startswith("O Dado de Dano"):
+            m = re.match(
+                r"O Dado de Dano é \[(?P<dice>.+)] e causa um dano médio de (?P<damage>.+)\.",
+                line,
+            )
+            item["dice"] = m.groupdict().get("dice")
+            item["damage"] = float(m.groupdict().get("damage"))
         if line.startswith("Aplicação na AC"):
             item["armor"] = -int(re.search(r"(?<=\[).+?(?=])", line).group(0))
         if line.startswith("Afeta:"):

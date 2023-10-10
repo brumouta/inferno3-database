@@ -5,6 +5,8 @@ export interface Item {
   remort: number | undefined;
   value: number | undefined;
   weight: number | undefined;
+  dice: string | undefined;
+  damage: number | undefined;
   armor: number | undefined;
   abilities: string[] | undefined;
   slot: string[] | undefined;

@@ -21,6 +21,8 @@ class ItemDto(BaseModel):
     remort: int
     value: int
     weight: int
+    dice: Optional[str] = Field(None)
+    damage: Optional[float] = Field(None)
     armor: Optional[int] = Field(None)
     effects: Optional[dict[str, int]] = {}
     prevents: Optional[list[str]] = []

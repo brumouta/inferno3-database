@@ -43,25 +43,45 @@ const columns: GridColDef[] = [
 
 interface Props {
   items: Item[];
+  quickFilter?: string;
 }
 
-const ItemsTable = ({ items }: Props) => {
+const ItemsTable = ({ items, quickFilter}: Props) => {
+  const filt = quickFilter ? quickFilter : ''
   return (
       <Container>
-        <DataGrid experimentalFeatures={{ariaV7: true}}
-                  localeText={ptBR.components.MuiDataGrid.defaultProps.localeText}
-                  getRowId={(row) => row._id}
-                  getRowHeight={() => 'auto'}
-                  slots={{ toolbar: GridToolbar }}
-                  rows={items}
-                  columns={columns}
-                  className={styles.itemstable}
-                  autoPageSize
-                  sx={{
-                    ".MuiTablePagination-root": {
-                      color: "red",
-                    },
-                  }}
+        <DataGrid
+            initialState={{
+              filter: {
+                filterModel: {
+                  items: [],
+                  quickFilterValues: [filt],
+                },
+              },
+            }}
+            experimentalFeatures={{ariaV7: true}}
+            localeText={ptBR.components.MuiDataGrid.defaultProps.localeText}
+            getRowId={(row) => row._id}
+            getRowHeight={() => 'auto'}
+            disableDensitySelector
+            slots={{ toolbar: GridToolbar }}
+            slotProps={{
+              toolbar: {
+                // csvOptions: { disableToolbarButton: true },
+                // printOptions: { disableToolbarButton: true },
+                showQuickFilter: true,
+                quickFilterProps: { debounceMs: 250 },
+              },
+            }}
+            rows={items}
+            columns={columns}
+            className={styles.itemstable}
+            autoPageSize
+            sx={{
+              ".MuiTablePagination-root": {
+                color: "red",
+              },
+            }}
         />
       </Container>
   )

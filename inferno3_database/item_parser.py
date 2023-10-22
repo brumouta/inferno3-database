@@ -10,6 +10,7 @@ TYPES = Enum(
         "ARMA",
         "ARMADURA",
         "COMIDA",
+        "CONT. LÍQUIDO",
         "LUZ",
         "CHAVE",
         "TESOURO",

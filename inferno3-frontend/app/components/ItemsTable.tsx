@@ -76,7 +76,7 @@ const ItemsTable = ({ items, quickFilter}: Props) => {
             rows={items}
             columns={columns}
             className={styles.itemstable}
-            autoPageSize
+            // autoPageSize
             sx={{
               ".MuiTablePagination-root": {
                 color: "red",

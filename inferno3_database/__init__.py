@@ -14,6 +14,7 @@ with open(ROOT_DIR + "/config.yaml") as file:
 def start_web_server() -> None:
     uvicorn.run(
         "inferno3_database.application:app",
+        host="0.0.0.0",
         port=4000,
         reload=True,
     )

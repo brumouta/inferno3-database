@@ -33,6 +33,9 @@ RUN poetry build
 
 FROM base AS final
 
+RUN addgroup -S i3db \
+    && adduser -S i3db -G i3db
+
 COPY --from=builder /app/.venv ./.venv
 COPY --from=builder /app/dist .
 COPY docker-entrypoint.sh .
@@ -45,4 +48,5 @@ ENV DATABASE_NAME $DATABASE_NAME
 
 RUN ./.venv/bin/pip install ./*.whl
 
+USER i3db
 CMD ["./docker-entrypoint.sh"]

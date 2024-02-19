@@ -8,7 +8,7 @@ Api.defaults.headers = {
   'Expires': '0',
 };
 
-const { get, post, put, delete: del, patch: patch, request: req} = Api;
+const {get, post, put, delete: del, patch, request: req} = Api;
 
-export { get, post, put, del, patch, req };
-export type { Response, RequestHeaders, Options };
+export {get, post, put, del, patch, req};
+export type {Response, RequestHeaders, Options};

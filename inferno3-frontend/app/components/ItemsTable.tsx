@@ -17,27 +17,42 @@ const formatEffects = (params: any) => {
 };
 
 const columns: GridColDef[] = [
-  { field: 'name', headerName: 'Nome', width: 300 },
-  { field: 'type', headerName: 'Tipo', width: 100 },
-  { field: 'level', headerName: 'Level', width: 80 },
-  { field: 'remort', headerName: 'Remort', width: 100 },
-  { field: 'value', headerName: 'Valor', width: 100 },
-  { field: 'weight', headerName: 'Peso', width: 80 },
-  { field: 'dice', headerName: 'Dado de Dano', width: 80 },
-  { field: 'damage', headerName: 'Dano médio', width: 80 },
-  { field: 'armor', headerName: 'Armadura', width: 120 },
-  { field: 'slot', headerName: 'Local', width: 120 },
-  { field: 'abilities', headerName: 'Habilidades', width: 130, valueFormatter: formatArray },
-  { field: 'properties', headerName: 'Propriedades', width: 150, valueFormatter: formatArray },
-  { field: 'effects', headerName: 'Afetamentos', width: 130, valueFormatter: formatEffects},
-  { field: 'prevents', headerName: 'Prevenir', width: 120 },
-  { field: 'capacity', headerName: 'Capacidade', width: 100 },
-  { field: 'wand', headerName: 'Varinha', width: 100 },
-  { field: 'mob', headerName: 'Mob', width: 100 },
-  { field: 'seller', headerName: 'Vendedor', width: 100 },
-  { field: 'price', headerName: 'Preço', width: 100 },
-  { field: 'room', headerName: 'Sala', width: 100 },
-  { field: 'area', headerName: 'Área', width: 100 },
+  {field: 'name', headerName: 'Nome', width: 300},
+  {field: 'type', headerName: 'Tipo', width: 100},
+  {field: 'level', headerName: 'Level', width: 80},
+  {field: 'remort', headerName: 'Remort', width: 100},
+  {field: 'value', headerName: 'Valor', width: 100},
+  {field: 'weight', headerName: 'Peso', width: 80},
+  {field: 'dice', headerName: 'Dado de Dano', width: 80},
+  {field: 'damage', headerName: 'Dano médio', width: 80},
+  {field: 'armor', headerName: 'Armadura', width: 120},
+  {field: 'slot', headerName: 'Local', width: 120},
+  {
+    field: 'abilities',
+    headerName: 'Habilidades',
+    width: 130,
+    valueFormatter: formatArray
+  },
+  {
+    field: 'properties',
+    headerName: 'Propriedades',
+    width: 150,
+    valueFormatter: formatArray
+  },
+  {
+    field: 'effects',
+    headerName: 'Afetamentos',
+    width: 130,
+    valueFormatter: formatEffects
+  },
+  {field: 'prevents', headerName: 'Prevenir', width: 120},
+  {field: 'capacity', headerName: 'Capacidade', width: 100},
+  {field: 'wand', headerName: 'Varinha', width: 100},
+  {field: 'mob', headerName: 'Mob', width: 100},
+  {field: 'seller', headerName: 'Vendedor', width: 100},
+  {field: 'price', headerName: 'Preço', width: 100},
+  {field: 'room', headerName: 'Sala', width: 100},
+  {field: 'area', headerName: 'Área', width: 100},
 ];
 
 
@@ -46,8 +61,7 @@ interface Props {
   quickFilter?: string;
 }
 
-const ItemsTable = ({ items, quickFilter}: Props) => {
-  const filt = quickFilter ? quickFilter : ''
+const ItemsTable = ({items, quickFilter}: Props) => {
   return (
       <Container>
         <DataGrid
@@ -55,7 +69,7 @@ const ItemsTable = ({ items, quickFilter}: Props) => {
               filter: {
                 filterModel: {
                   items: [],
-                  quickFilterValues: [filt],
+                  quickFilterValues: [quickFilter],
                 },
               },
             }}
@@ -64,13 +78,13 @@ const ItemsTable = ({ items, quickFilter}: Props) => {
             getRowId={(row) => row._id}
             getRowHeight={() => 'auto'}
             disableDensitySelector
-            slots={{ toolbar: GridToolbar }}
+            slots={{toolbar: GridToolbar}}
             slotProps={{
               toolbar: {
                 // csvOptions: { disableToolbarButton: true },
                 // printOptions: { disableToolbarButton: true },
                 showQuickFilter: true,
-                quickFilterProps: { debounceMs: 250 },
+                quickFilterProps: {debounceMs: 250},
               },
             }}
             rows={items}
@@ -88,4 +102,4 @@ const ItemsTable = ({ items, quickFilter}: Props) => {
 }
 
 
-export { ItemsTable };
+export {ItemsTable};

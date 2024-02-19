@@ -11,7 +11,7 @@ export default async function Items({searchParams}: Readonly<{
       `${process.env.BACKEND_URL}/v1/items`
   );
 
-  const quickFilter = searchParams && searchParams.area ? searchParams.area : "";
+  const quickFilter = searchParams?.area ? searchParams.area : "";
 
   return (
       <ItemsTable items={res.data} quickFilter={quickFilter}></ItemsTable>

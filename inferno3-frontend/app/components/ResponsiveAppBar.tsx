@@ -36,7 +36,7 @@ function ResponsiveAppBar() {
                 href="/"
                 sx={{
                   mr: 2,
-                  display: { xs: 'none', md: 'flex' },
+                  display: {xs: 'none', md: 'flex'},
                   fontFamily: 'monospace',
                   fontWeight: 700,
                   letterSpacing: '.3rem',
@@ -47,7 +47,7 @@ function ResponsiveAppBar() {
               I3DB
             </Typography>
 
-            <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
+            <Box sx={{flexGrow: 1, display: {xs: 'flex', md: 'none'}}}>
               <IconButton
                   size="large"
                   aria-label="account of current user"
@@ -56,7 +56,7 @@ function ResponsiveAppBar() {
                   onClick={handleOpenNavMenu}
                   color="inherit"
               >
-                <MenuIcon />
+                <MenuIcon/>
               </IconButton>
               <Menu
                   id="menu-appbar"
@@ -73,16 +73,21 @@ function ResponsiveAppBar() {
                   open={Boolean(anchorElNav)}
                   onClose={handleCloseNavMenu}
                   sx={{
-                    display: { xs: 'block', md: 'none' },
+                    display: {xs: 'block', md: 'none'},
                   }}
               >
-                {config.nav.map((item, index) => (
-                    <MenuItem key={index} onClick={handleCloseNavMenu}>
+                {config.nav.map((item) => (
+                    <MenuItem key={item.name} onClick={handleCloseNavMenu}>
                       <Link
-                          key={index}
+                          key={item.name}
                           underline={"none"}
                           onClick={handleCloseNavMenu}
-                          sx={{ my: 2, color: 'red', display: 'block', font: "monospace" }}
+                          sx={{
+                            my: 2,
+                            color: 'red',
+                            display: 'block',
+                            font: "monospace"
+                          }}
                           href={item.path}
                       >
                         <Typography textAlign="center">{item.name}</Typography>
@@ -98,7 +103,7 @@ function ResponsiveAppBar() {
                 href="/"
                 sx={{
                   mr: 2,
-                  display: { xs: 'flex', md: 'none' },
+                  display: {xs: 'flex', md: 'none'},
                   flexGrow: 1,
                   fontFamily: 'monospace',
                   fontWeight: 700,
@@ -109,22 +114,27 @@ function ResponsiveAppBar() {
             >
               I3DB
             </Typography>
-            <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
+            <Box sx={{flexGrow: 1, display: {xs: 'none', md: 'flex'}}}>
               <Stack
                   direction="row"
-                  divider={<Divider orientation="vertical" flexItem />}
+                  divider={<Divider orientation="vertical" flexItem/>}
                   spacing={2}
               >
-                {config.nav.map((item, index) => (
-                  <Link
-                    key={index}
-                    underline={"none"}
-                    onClick={handleCloseNavMenu}
-                    sx={{ my: 2, color: 'red', display: 'block', font: "monospace" }}
-                    href={item.path}
-                  >
-                    <Typography textAlign="center">{item.name}</Typography>
-                  </Link>
+                {config.nav.map((item) => (
+                    <Link
+                        key={item.name}
+                        underline={"none"}
+                        onClick={handleCloseNavMenu}
+                        sx={{
+                          my: 2,
+                          color: 'red',
+                          display: 'block',
+                          font: "monospace"
+                        }}
+                        href={item.path}
+                    >
+                      <Typography textAlign="center">{item.name}</Typography>
+                    </Link>
                 ))}
               </Stack>
             </Box>
@@ -133,4 +143,5 @@ function ResponsiveAppBar() {
       </AppBar>
   );
 }
+
 export default ResponsiveAppBar;

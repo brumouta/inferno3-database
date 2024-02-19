@@ -9,18 +9,16 @@ export const metadata: Metadata = {
   viewport: 'width=device-width, initial-scale=1'
 }
 
-export default function RootLayout({
-  children,
-}: {
+export default function RootLayout({children,}: Readonly<{
   children: React.ReactNode
-}) {
+}>) {
   return (
       <html lang="pt-BR">
-        <body>
-          <Header />
-          <main className={styles.container}>{children}</main>
-          <Footer />
-        </body>
+      <body>
+      <Header/>
+      <main className={styles.container}>{children}</main>
+      <Footer/>
+      </body>
       </html>
   )
 }

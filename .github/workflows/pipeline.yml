@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+    tags:
+      - 'v*'
+  pull_request:
+    branches:
+      - main
 
 permissions:
   id-token: write
@@ -79,6 +84,9 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: vorrac/i3-db
+          tags: |
+            type=ref,event=branch
+            type=raw,value=latest,enable=${{ github.ref == format('refs/heads/{0}', 'main') }}
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v5

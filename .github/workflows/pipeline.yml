@@ -15,56 +15,56 @@ permissions:
   contents: read
 
 jobs:
-#  test:
-#    name: 'Unit Test'
-#    runs-on: ubuntu-latest
-#
-#    defaults:
-#      run:
-#        shell: bash
-#        working-directory: ./
-#
-#    steps:
-#      - name: Checkout
-#        uses: actions/checkout@v4
-#
-#      - name: Set Cache Key
-#        run: echo "CACHE_KEY=dependencies-${{ hashFiles('./package.json') }}" >> $GITHUB_ENV
-#
-#      - name: Cache Dependencies
-#        id: cache
-#        uses: actions/cache@v3
-#        with:
-#          path: ./node_modules
-#          key: ${{ env.CACHE_KEY }}
-#
-#      - name: Use private NPM Registry
-#        uses: actions/setup-node@v3
-#        with:
-#          always-auth: true
-#          node-version: '18.x'
-#          registry-url: 'https://registry.npmjs.org'
-#
-#      - name: Authenticate with NPM reg
-#        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_AUTH_TOKEN }}" > ~/.npmrc
-#
-#      - name: Dependency Install
-#        run: npm ci
-#        env:
-#          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
-#        if: steps.cache.outputs.cache-hit != 'true'
-#
-#      - name: Lint
-#        run: npm run lint
-#
-#      - name: Test Execution
-#        run: npm run test:coverage --noStackTrace --maxWorkers=2
-#
-#      - name: Archive code coverage reports
-#        uses: actions/upload-artifact@v3
-#        with:
-#          name: code-coverage-report
-#          path: reports
+  #  test:
+  #    name: 'Unit Test'
+  #    runs-on: ubuntu-latest
+  #
+  #    defaults:
+  #      run:
+  #        shell: bash
+  #        working-directory: ./
+  #
+  #    steps:
+  #      - name: Checkout
+  #        uses: actions/checkout@v4
+  #
+  #      - name: Set Cache Key
+  #        run: echo "CACHE_KEY=dependencies-${{ hashFiles('./package.json') }}" >> $GITHUB_ENV
+  #
+  #      - name: Cache Dependencies
+  #        id: cache
+  #        uses: actions/cache@v3
+  #        with:
+  #          path: ./node_modules
+  #          key: ${{ env.CACHE_KEY }}
+  #
+  #      - name: Use private NPM Registry
+  #        uses: actions/setup-node@v3
+  #        with:
+  #          always-auth: true
+  #          node-version: '18.x'
+  #          registry-url: 'https://registry.npmjs.org'
+  #
+  #      - name: Authenticate with NPM reg
+  #        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_AUTH_TOKEN }}" > ~/.npmrc
+  #
+  #      - name: Dependency Install
+  #        run: npm ci
+  #        env:
+  #          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+  #        if: steps.cache.outputs.cache-hit != 'true'
+  #
+  #      - name: Lint
+  #        run: npm run lint
+  #
+  #      - name: Test Execution
+  #        run: npm run test:coverage --noStackTrace --maxWorkers=2
+  #
+  #      - name: Archive code coverage reports
+  #        uses: actions/upload-artifact@v3
+  #        with:
+  #          name: code-coverage-report
+  #          path: reports
 
   push_to_registry:
     name: Push Docker image to Docker Hub
@@ -90,12 +90,15 @@ jobs:
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
-        env:
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-          DATABASE_NAME: ${{ secrets.DATABASE_NAME }}
         with:
           context: .
           file: ./Dockerfile
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+          secrets: |
+            "DATABASE_URL=${{ secrets.DATABASE_URL }}"
+            "DATABASE_NAME=${{ secrets.DATABASE_NAME }}"
+          env:
+            DATABASE_URL: ${{ secrets.DATABASE_URL }}
+            DATABASE_NAME: ${{ secrets.DATABASE_NAME }}

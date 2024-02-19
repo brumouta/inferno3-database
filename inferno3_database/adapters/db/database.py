@@ -9,8 +9,8 @@ def create_indexes(db):
 
 
 def start_db():
-    database_url = config["db"]["url"]
-    database_name = config["db"]["database"]
+    database_url = config.db.url
+    database_name = config.db.name
 
     client = motor.motor_asyncio.AsyncIOMotorClient(
         database_url, tls=True, tlsAllowInvalidCertificates=True

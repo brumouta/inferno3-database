@@ -301,6 +301,23 @@ test = ["aiohttp (<3.8.6)", "mockupdb", "motor[encryption]", "pytest (>=7)", "to
 zstd = ["pymongo[zstd] (>=4.5,<5)"]
 
 [[package]]
+name = "pyaml-env"
+version = "1.2.1"
+description = "Provides yaml file parsing with environment variable resolution"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "pyaml_env-1.2.1-py3-none-any.whl", hash = "sha256:2e7da2d4bba0629711ade1a41864e5e200c84ded896a3d27e9f560fae7311c36"},
+    {file = "pyaml_env-1.2.1.tar.gz", hash = "sha256:6d5dc98c8c82df743a132c196e79963050c9feb05b0a6f25f3ad77771d3d95b0"},
+]
+
+[package.dependencies]
+PyYAML = ">=5.0,<=7.0"
+
+[package.extras]
+test = ["pytest"]
+
+[[package]]
 name = "pydantic"
 version = "2.6.1"
 description = "Data validation using Python type hints"
@@ -712,4 +729,4 @@ standard = ["colorama (>=0.4)", "httptools (>=0.5.0)", "python-dotenv (>=0.13)",
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "d0259ee41b85381f6c75f25891f34c2377bdc821ad774c2a165249516ee07803"
+content-hash = "be0da7a3bd63476c05fb2c69ab79709700d1f0c61867045710839fefd5f066d6"

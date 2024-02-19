@@ -1,14 +1,14 @@
 import os
 
 import uvicorn
-import yaml
+from pyaml_env import parse_config, BaseConfig
 
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-with open(ROOT_DIR + "/config.yaml") as file:
-    config = yaml.load(file, Loader=yaml.FullLoader)
-    print("Successfully loaded the configuration")
+config = BaseConfig(parse_config(ROOT_DIR + "/config.yaml"))
+
+print(config)
 
 
 def start_web_server() -> None:

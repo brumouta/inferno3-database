@@ -6,3 +6,5 @@
 inferno3_database/__pycache__/
 
 *.pyc
+
+.env

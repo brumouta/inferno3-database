@@ -38,6 +38,11 @@ COPY --from=builder /app/dist .
 COPY docker-entrypoint.sh .
 COPY inferno3_database/config.yaml .
 
+ARG DATABASE_URL
+ENV DATABASE_URL $DATABASE_URL
+ARG DATABASE_NAME
+ENV DATABASE_NAME $DATABASE_NAME
+
 RUN ./.venv/bin/pip install ./*.whl
 
 CMD ["./docker-entrypoint.sh"]

@@ -82,8 +82,10 @@ jobs:
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DATABASE_NAME: ${{ secrets.DATABASE_NAME }}
         with:
-          working-directory: ./inferno3_database
           context: .
           file: ./Dockerfile
           push: true

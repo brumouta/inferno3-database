@@ -99,6 +99,3 @@ jobs:
           secrets: |
             "DATABASE_URL=${{ secrets.DATABASE_URL }}"
             "DATABASE_NAME=${{ secrets.DATABASE_NAME }}"
-          env:
-            DATABASE_URL: ${{ secrets.DATABASE_URL }}
-            DATABASE_NAME: ${{ secrets.DATABASE_NAME }}

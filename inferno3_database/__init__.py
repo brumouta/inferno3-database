@@ -8,7 +8,7 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 config = BaseConfig(parse_config(ROOT_DIR + "/config.yaml"))
 
-print(config)
+print(config.db.name)
 
 
 def start_web_server() -> None:
